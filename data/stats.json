@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T09:12:48Z",
+ "generated": "2026-09-13T10:12:50Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,68 +10,68 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 4,
-  "hours": 22.6,
-  "mob_kills": 551,
+  "hours": 24.0,
+  "mob_kills": 623,
   "boss_kills": 0,
   "deaths": 51
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 11.06,
-   "level": 15,
+   "hours": 12.06,
+   "level": 23,
    "dims": 0,
    "rank": 2,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 28,
-   "mob_kills": 370,
+   "mob_kills": 441,
    "boss_kills": 0,
-   "conquest_raw": 370,
-   "distance_km": 46.21,
-   "mined": 1274,
+   "conquest_raw": 441,
+   "distance_km": 51.77,
+   "mined": 1707,
    "crafted": 1059,
-   "streak_h": 0.9,
-   "dmg_dealt": 142248,
+   "streak_h": 1.9,
+   "dmg_dealt": 172978,
    "dmg_taken_overflow": false,
    "top_killer": "Ghost",
    "top_mobs": [
     [
      "Skeleton",
-     102
+     122
     ],
     [
      "Zombie",
-     95
+     114
+    ],
+    [
+     "Spider",
+     50
     ],
     [
      "Pillager",
      45
     ],
     [
-     "Spider",
-     40
-    ],
-    [
      "Creeper",
-     25
+     33
     ]
    ],
    "parts": {
     "threat": 100.0,
     "conquest": 100.0,
     "survival": 30.0,
-    "frontier": 30.2,
-    "craft": 37.9
+    "frontier": 33.2,
+    "craft": 37.7
    },
-   "score": 75.9,
+   "score": 76.2,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Flowko",
-   "hours": 9.69,
+   "hours": 10.1,
    "level": 3,
    "dims": 0,
    "rank": 0,
@@ -79,20 +79,20 @@
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
    "deaths": 21,
-   "mob_kills": 179,
+   "mob_kills": 180,
    "boss_kills": 0,
-   "conquest_raw": 179,
-   "distance_km": 61.12,
-   "mined": 5912,
-   "crafted": 1955,
-   "streak_h": 0.1,
-   "dmg_dealt": 43948,
+   "conquest_raw": 180,
+   "distance_km": 62.37,
+   "mined": 6098,
+   "crafted": 2230,
+   "streak_h": 0.5,
+   "dmg_dealt": 44208,
    "dmg_taken_overflow": true,
    "top_killer": "Necromancer",
    "top_mobs": [
     [
      "Zombie",
-     45
+     46
     ],
     [
      "Sheep",
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 20.0,
-    "conquest": 48.4,
-    "survival": 13.4,
+    "threat": 13.0,
+    "conquest": 40.8,
+    "survival": 15.2,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 31.8,
+   "score": 27.5,
    "ranked": true,
    "rank_pos": 2
   },
@@ -146,11 +146,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 64.2,
-    "frontier": 1.6,
-    "craft": 5.7
+    "survival": 49.3,
+    "frontier": 1.5,
+    "craft": 5.2
    },
-   "score": 13.3,
+   "score": 10.3,
    "ranked": false,
    "rank_pos": null
   },
@@ -187,11 +187,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.5,
-    "survival": 42.3,
+    "survival": 37.7,
     "frontier": 2.4,
-    "craft": 17.2
+    "craft": 15.7
    },
-   "score": 9.7,
+   "score": 8.7,
    "ranked": false,
    "rank_pos": null
   }
