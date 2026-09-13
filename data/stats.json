@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T16:13:00Z",
+ "generated": "2026-09-13T17:13:02Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,8 +10,8 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 5,
-  "hours": 36.0,
-  "mob_kills": 1291,
+  "hours": 37.0,
+  "mob_kills": 1359,
   "boss_kills": 0,
   "deaths": 63
  },
@@ -62,31 +62,31 @@
     "threat": 100.0,
     "conquest": 100.0,
     "survival": 30.0,
-    "frontier": 38.8,
-    "craft": 34.9
+    "frontier": 37.0,
+    "craft": 34.0
    },
-   "score": 76.6,
+   "score": 76.4,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Flowko",
-   "hours": 14.04,
-   "level": 5,
+   "hours": 15.01,
+   "level": 17,
    "dims": 0,
-   "rank": 0,
+   "rank": 2,
    "origin": "Wildcat",
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
    "deaths": 24,
-   "mob_kills": 237,
+   "mob_kills": 305,
    "boss_kills": 0,
-   "conquest_raw": 237,
-   "distance_km": 79.57,
-   "mined": 7657,
-   "crafted": 2764,
-   "streak_h": 0.7,
-   "dmg_dealt": 61253,
+   "conquest_raw": 305,
+   "distance_km": 83.5,
+   "mined": 7703,
+   "crafted": 2872,
+   "streak_h": 1.7,
+   "dmg_dealt": 88901,
    "dmg_taken_overflow": true,
    "top_killer": "Necromancer",
    "top_mobs": [
@@ -100,25 +100,25 @@
     ],
     [
      "Skeleton",
-     37
+     38
+    ],
+    [
+     "Pillager",
+     26
     ],
     [
      "Spider",
      18
-    ],
-    [
-     "Cow",
-     17
     ]
    ],
    "parts": {
-    "threat": 12.8,
-    "conquest": 25.0,
-    "survival": 17.3,
+    "threat": 43.6,
+    "conquest": 32.2,
+    "survival": 32.3,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 23.9,
+   "score": 41.0,
    "ranked": true,
    "rank_pos": 2
   },
@@ -168,10 +168,10 @@
     "threat": 23.1,
     "conquest": 11.1,
     "survival": 37.1,
-    "frontier": 6.1,
-    "craft": 12.8
+    "frontier": 5.8,
+    "craft": 12.6
    },
-   "score": 20.7,
+   "score": 20.6,
    "ranked": true,
    "rank_pos": 3
   },
@@ -200,8 +200,8 @@
     "threat": 0.0,
     "conquest": 0.0,
     "survival": 40.6,
-    "frontier": 1.2,
-    "craft": 4.2
+    "frontier": 1.1,
+    "craft": 4.1
    },
    "score": 8.4,
    "ranked": false,
@@ -241,8 +241,8 @@
     "threat": 0.0,
     "conquest": 0.2,
     "survival": 31.4,
-    "frontier": 1.9,
-    "craft": 12.6
+    "frontier": 1.8,
+    "craft": 12.3
    },
    "score": 7.1,
    "ranked": false,
