@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T10:12:50Z",
+ "generated": "2026-09-13T11:12:52Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -9,41 +9,41 @@
  },
  "min_ranked_hours": 2.0,
  "totals": {
-  "players": 4,
-  "hours": 24.0,
-  "mob_kills": 623,
+  "players": 5,
+  "hours": 26.7,
+  "mob_kills": 673,
   "boss_kills": 0,
-  "deaths": 51
+  "deaths": 54
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 12.06,
-   "level": 23,
+   "hours": 13.14,
+   "level": 24,
    "dims": 0,
    "rank": 2,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 28,
-   "mob_kills": 441,
+   "mob_kills": 454,
    "boss_kills": 0,
-   "conquest_raw": 441,
-   "distance_km": 51.77,
-   "mined": 1707,
-   "crafted": 1059,
-   "streak_h": 1.9,
-   "dmg_dealt": 172978,
+   "conquest_raw": 454,
+   "distance_km": 56.77,
+   "mined": 1777,
+   "crafted": 1070,
+   "streak_h": 3.0,
+   "dmg_dealt": 183260,
    "dmg_taken_overflow": false,
    "top_killer": "Ghost",
    "top_mobs": [
     [
      "Skeleton",
-     122
+     125
     ],
     [
      "Zombie",
-     114
+     117
     ],
     [
      "Spider",
@@ -62,8 +62,8 @@
     "threat": 100.0,
     "conquest": 100.0,
     "survival": 30.0,
-    "frontier": 33.2,
-    "craft": 37.7
+    "frontier": 34.2,
+    "craft": 36.1
    },
    "score": 76.2,
    "ranked": true,
@@ -71,28 +71,28 @@
   },
   {
    "name": "Flowko",
-   "hours": 10.1,
+   "hours": 11.18,
    "level": 3,
    "dims": 0,
    "rank": 0,
    "origin": "Wildcat",
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
-   "deaths": 21,
-   "mob_kills": 180,
+   "deaths": 23,
+   "mob_kills": 211,
    "boss_kills": 0,
-   "conquest_raw": 180,
-   "distance_km": 62.37,
-   "mined": 6098,
-   "crafted": 2230,
-   "streak_h": 0.5,
-   "dmg_dealt": 44208,
+   "conquest_raw": 211,
+   "distance_km": 66.42,
+   "mined": 6240,
+   "crafted": 2444,
+   "streak_h": 0.2,
+   "dmg_dealt": 53200,
    "dmg_taken_overflow": true,
    "top_killer": "Necromancer",
    "top_mobs": [
     [
      "Zombie",
-     46
+     57
     ],
     [
      "Sheep",
@@ -100,25 +100,25 @@
     ],
     [
      "Skeleton",
-     25
+     36
+    ],
+    [
+     "Spider",
+     18
     ],
     [
      "Cow",
      17
-    ],
-    [
-     "Spider",
-     16
     ]
    ],
    "parts": {
-    "threat": 13.0,
-    "conquest": 40.8,
-    "survival": 15.2,
+    "threat": 12.5,
+    "conquest": 46.5,
+    "survival": 4.4,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 27.5,
+   "score": 26.5,
    "ranked": true,
    "rank_pos": 2
   },
@@ -146,11 +146,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 49.3,
-    "frontier": 1.5,
-    "craft": 5.2
+    "survival": 42.4,
+    "frontier": 1.4,
+    "craft": 4.9
    },
-   "score": 10.3,
+   "score": 8.9,
    "ranked": false,
    "rank_pos": null
   },
@@ -186,12 +186,65 @@
    ],
    "parts": {
     "threat": 0.0,
-    "conquest": 0.5,
-    "survival": 37.7,
-    "frontier": 2.4,
-    "craft": 15.7
+    "conquest": 0.4,
+    "survival": 34.1,
+    "frontier": 2.2,
+    "craft": 14.7
    },
-   "score": 8.7,
+   "score": 7.9,
+   "ranked": false,
+   "rank_pos": null
+  },
+  {
+   "name": "SkizoroZ",
+   "hours": 0.58,
+   "level": 2,
+   "dims": 0,
+   "rank": 0,
+   "origin": "Hobrosi Dark Mage",
+   "blessing": "Chiron Blessing",
+   "clazz": "Explorer",
+   "deaths": 1,
+   "mob_kills": 6,
+   "boss_kills": 0,
+   "conquest_raw": 6,
+   "distance_km": 2.73,
+   "mined": 59,
+   "crafted": 43,
+   "streak_h": 0.2,
+   "dmg_dealt": 186,
+   "dmg_taken_overflow": false,
+   "top_killer": "Player",
+   "top_mobs": [
+    [
+     "Spider",
+     1
+    ],
+    [
+     "Creeper",
+     1
+    ],
+    [
+     "Gorilla",
+     1
+    ],
+    [
+     "Sheep",
+     1
+    ],
+    [
+     "Leafcutter Ant",
+     1
+    ]
+   ],
+   "parts": {
+    "threat": 8.3,
+    "conquest": 1.3,
+    "survival": 15.4,
+    "frontier": 1.6,
+    "craft": 1.4
+   },
+   "score": 7.0,
    "ranked": false,
    "rank_pos": null
   }
