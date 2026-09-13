@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T15:12:58Z",
+ "generated": "2026-09-13T16:13:00Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -62,7 +62,7 @@
     "threat": 100.0,
     "conquest": 100.0,
     "survival": 30.0,
-    "frontier": 38.9,
+    "frontier": 38.8,
     "craft": 34.9
    },
    "score": 76.6,
@@ -71,7 +71,7 @@
   },
   {
    "name": "Flowko",
-   "hours": 14.0,
+   "hours": 14.04,
    "level": 5,
    "dims": 0,
    "rank": 0,
@@ -82,10 +82,10 @@
    "mob_kills": 237,
    "boss_kills": 0,
    "conquest_raw": 237,
-   "distance_km": 79.54,
+   "distance_km": 79.57,
    "mined": 7657,
    "crafted": 2764,
-   "streak_h": 0.6,
+   "streak_h": 0.7,
    "dmg_dealt": 61253,
    "dmg_taken_overflow": true,
    "top_killer": "Necromancer",
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 12.8,
     "conquest": 25.0,
-    "survival": 16.0,
+    "survival": 17.3,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 23.6,
+   "score": 23.9,
    "ranked": true,
    "rank_pos": 2
   },
