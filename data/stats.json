@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T10:13:13Z",
+ "generated": "2026-09-14T11:13:14Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 39.4,
+  "hours": 40.4,
   "mob_kills": 1389,
   "boss_kills": 0,
-  "deaths": 71
+  "deaths": 72
  },
  "players": [
   {
@@ -62,30 +62,30 @@
     "threat": 100.0,
     "conquest": 100.0,
     "survival": 84.2,
-    "frontier": 34.2,
-    "craft": 30.9
+    "frontier": 33.7,
+    "craft": 28.8
    },
-   "score": 86.8,
+   "score": 86.7,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Flowko",
-   "hours": 16.79,
-   "level": 5,
+   "hours": 17.79,
+   "level": 2,
    "dims": 0,
    "rank": 0,
    "origin": "Wildcat",
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
-   "deaths": 27,
+   "deaths": 28,
    "mob_kills": 333,
    "boss_kills": 0,
    "conquest_raw": 333,
-   "distance_km": 90.45,
-   "mined": 8805,
-   "crafted": 3087,
-   "streak_h": 0.6,
+   "distance_km": 91.67,
+   "mined": 8933,
+   "crafted": 3417,
+   "streak_h": 0.8,
    "dmg_dealt": 103579,
    "dmg_taken_overflow": true,
    "top_killer": "Necromancer",
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 12.8,
+    "threat": 5.1,
     "conquest": 35.2,
-    "survival": 63.8,
+    "survival": 66.3,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 35.7,
+   "score": 33.1,
    "ranked": true,
    "rank_pos": 2
   },
@@ -169,7 +169,7 @@
     "conquest": 11.1,
     "survival": 68.6,
     "frontier": 5.3,
-    "craft": 11.3
+    "craft": 10.7
    },
    "score": 26.8,
    "ranked": true,
@@ -201,7 +201,7 @@
     "conquest": 0.0,
     "survival": 69.4,
     "frontier": 1.0,
-    "craft": 3.7
+    "craft": 3.5
    },
    "score": 14.2,
    "ranked": false,
@@ -242,7 +242,7 @@
     "conquest": 0.2,
     "survival": 62.1,
     "frontier": 1.6,
-    "craft": 11.1
+    "craft": 10.4
    },
    "score": 13.2,
    "ranked": false,
