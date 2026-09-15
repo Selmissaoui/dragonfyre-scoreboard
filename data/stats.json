@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T14:13:47Z",
+ "generated": "2026-09-15T15:13:49Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,36 +10,40 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 55.1,
-  "mob_kills": 4062,
+  "hours": 56.2,
+  "mob_kills": 4557,
   "boss_kills": 0,
-  "deaths": 119
+  "deaths": 124
  },
  "players": [
   {
    "name": "Flowko",
-   "hours": 20.89,
-   "level": 23,
+   "hours": 21.91,
+   "level": 17,
    "dims": 0,
    "rank": 5,
    "origin": "Pyrios Pheonix Knight",
    "blessing": "Lokis Blessing",
    "clazz": "Cleric",
-   "deaths": 49,
-   "mob_kills": 820,
+   "deaths": 54,
+   "mob_kills": 1315,
    "boss_kills": 0,
-   "conquest_raw": 820,
-   "distance_km": 103.13,
-   "mined": 9192,
+   "conquest_raw": 1315,
+   "distance_km": 104.78,
+   "mined": 9237,
    "crafted": 3481,
-   "streak_h": 0.1,
-   "dmg_dealt": 316805,
+   "streak_h": 0.0,
+   "dmg_dealt": 583653,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     483
+     938
+    ],
+    [
+     "Sheep",
+     80
     ],
     [
      "Zombie",
@@ -50,22 +54,18 @@
      45
     ],
     [
-     "Sheep",
-     40
-    ],
-    [
      "Pillager",
      27
     ]
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 28.0,
-    "survival": 15.7,
+    "conquest": 44.9,
+    "survival": 8.5,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 59.1,
+   "score": 61.9,
    "ranked": true,
    "rank_pos": 1
   },
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 17.4,
+    "threat": 23.5,
     "conquest": 100.0,
     "survival": 14.4,
-    "frontier": 38.8,
-    "craft": 34.7
+    "frontier": 38.2,
+    "craft": 34.6
    },
-   "score": 40.4,
+   "score": 42.8,
    "ranked": true,
    "rank_pos": 2
   },
@@ -165,13 +165,13 @@
     ]
    ],
    "parts": {
-    "threat": 17.4,
+    "threat": 23.5,
     "conquest": 7.1,
     "survival": 57.3,
-    "frontier": 9.9,
+    "frontier": 9.7,
     "craft": 19.2
    },
-   "score": 22.2,
+   "score": 24.6,
    "ranked": true,
    "rank_pos": 3
   },
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 21.7,
+    "threat": 29.4,
     "conquest": 3.4,
     "survival": 21.4,
-    "frontier": 13.6,
+    "frontier": 13.4,
     "craft": 7.0
    },
-   "score": 15.6,
+   "score": 18.6,
    "ranked": true,
    "rank_pos": 4
   },
