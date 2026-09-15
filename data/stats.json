@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T20:13:59Z",
+ "generated": "2026-09-15T21:14:01Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 62.9,
-  "mob_kills": 5775,
+  "hours": 63.9,
+  "mob_kills": 6335,
   "boss_kills": 1,
-  "deaths": 142
+  "deaths": 153
  },
  "players": [
   {
    "name": "Flowko",
-   "hours": 22.58,
+   "hours": 22.61,
    "level": 20,
    "dims": 0,
    "rank": 5,
@@ -29,7 +29,7 @@
    "mob_kills": 1347,
    "boss_kills": 0,
    "conquest_raw": 1347,
-   "distance_km": 122.83,
+   "distance_km": 122.85,
    "mined": 9296,
    "crafted": 3481,
    "streak_h": 0.7,
@@ -60,39 +60,39 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 33.5,
-    "survival": 39.6,
+    "conquest": 29.4,
+    "survival": 39.7,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 65.3,
+   "score": 64.3,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Raiduz",
-   "hours": 26.13,
-   "level": 8,
+   "hours": 27.07,
+   "level": 10,
    "dims": 0,
    "rank": 4,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 63,
-   "mob_kills": 4000,
+   "deaths": 74,
+   "mob_kills": 4560,
    "boss_kills": 1,
-   "conquest_raw": 4024,
-   "distance_km": 110.43,
-   "mined": 2663,
-   "crafted": 2522,
-   "streak_h": 0.0,
-   "dmg_dealt": 2467889,
+   "conquest_raw": 4584,
+   "distance_km": 112.65,
+   "mined": 2664,
+   "crafted": 2605,
+   "streak_h": 0.4,
+   "dmg_dealt": 2914987,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     2646
+     3206
     ],
     [
      "Pillager",
@@ -112,19 +112,19 @@
     ]
    ],
    "parts": {
-    "threat": 40.0,
+    "threat": 50.0,
     "conquest": 100.0,
-    "survival": 9.1,
-    "frontier": 36.0,
-    "craft": 50.5
+    "survival": 18.1,
+    "frontier": 36.7,
+    "craft": 51.7
    },
-   "score": 48.9,
+   "score": 54.9,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "SkizoroZ",
-   "hours": 8.35,
+   "hours": 8.44,
    "level": 6,
    "dims": 0,
    "rank": 2,
@@ -135,10 +135,10 @@
    "mob_kills": 309,
    "boss_kills": 0,
    "conquest_raw": 309,
-   "distance_km": 35.49,
+   "distance_km": 35.76,
    "mined": 2757,
    "crafted": 475,
-   "streak_h": 0.3,
+   "streak_h": 0.4,
    "dmg_dealt": 14139,
    "dmg_taken_overflow": false,
    "top_killer": "Player",
@@ -166,12 +166,12 @@
    ],
    "parts": {
     "threat": 30.0,
-    "conquest": 7.7,
-    "survival": 46.6,
+    "conquest": 6.7,
+    "survival": 51.2,
     "frontier": 11.6,
     "craft": 21.7
    },
-   "score": 25.5,
+   "score": 26.2,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,7 +219,7 @@
    ],
    "parts": {
     "threat": 40.0,
-    "conquest": 2.9,
+    "conquest": 2.6,
     "survival": 4.3,
     "frontier": 29.1,
     "craft": 7.0
