@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T18:13:55Z",
+ "generated": "2026-09-15T19:13:57Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 58.3,
-  "mob_kills": 5039,
-  "boss_kills": 0,
-  "deaths": 130
+  "hours": 61.0,
+  "mob_kills": 5544,
+  "boss_kills": 1,
+  "deaths": 137
  },
  "players": [
   {
@@ -60,39 +60,39 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 40.2,
-    "survival": 40.3,
+    "conquest": 35.1,
+    "survival": 39.6,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 67.1,
+   "score": 65.7,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Raiduz",
-   "hours": 24.2,
-   "level": 10,
+   "hours": 25.21,
+   "level": 11,
    "dims": 0,
-   "rank": 5,
+   "rank": 4,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 57,
-   "mob_kills": 3352,
-   "boss_kills": 0,
-   "conquest_raw": 3352,
-   "distance_km": 101.97,
-   "mined": 2107,
-   "crafted": 1624,
-   "streak_h": 0.1,
-   "dmg_dealt": 1988930,
+   "deaths": 60,
+   "mob_kills": 3816,
+   "boss_kills": 1,
+   "conquest_raw": 3840,
+   "distance_km": 106.64,
+   "mined": 2633,
+   "crafted": 2522,
+   "streak_h": 0.0,
+   "dmg_dealt": 2311182,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     2037
+     2479
     ],
     [
      "Pillager",
@@ -100,11 +100,11 @@
     ],
     [
      "Zombie",
-     181
+     184
     ],
     [
      "Skeleton",
-     177
+     182
     ],
     [
      "Vindicator",
@@ -112,34 +112,34 @@
     ]
    ],
    "parts": {
-    "threat": 50.0,
+    "threat": 55.0,
     "conquest": 100.0,
-    "survival": 15.5,
-    "frontier": 33.2,
-    "craft": 34.7
+    "survival": 9.9,
+    "frontier": 34.7,
+    "craft": 50.4
    },
-   "score": 53.1,
+   "score": 55.0,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "SkizoroZ",
-   "hours": 6.43,
-   "level": 8,
+   "hours": 7.44,
+   "level": 5,
    "dims": 0,
-   "rank": 0,
+   "rank": 1,
    "origin": "Hobrosi Dark Mage",
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
-   "deaths": 8,
-   "mob_kills": 237,
+   "deaths": 10,
+   "mob_kills": 262,
    "boss_kills": 0,
-   "conquest_raw": 237,
-   "distance_km": 27.97,
-   "mined": 2331,
-   "crafted": 467,
-   "streak_h": 0.2,
-   "dmg_dealt": 9508,
+   "conquest_raw": 262,
+   "distance_km": 33.21,
+   "mined": 2699,
+   "crafted": 475,
+   "streak_h": 0.1,
+   "dmg_dealt": 11880,
    "dmg_taken_overflow": false,
    "top_killer": "Player",
    "top_mobs": [
@@ -149,11 +149,11 @@
     ],
     [
      "Zombie",
-     36
+     43
     ],
     [
      "Creeper",
-     28
+     29
     ],
     [
      "Spider",
@@ -165,40 +165,40 @@
     ]
    ],
    "parts": {
-    "threat": 40.0,
-    "conquest": 7.1,
-    "survival": 47.5,
-    "frontier": 9.1,
-    "craft": 19.2
+    "threat": 25.0,
+    "conquest": 6.8,
+    "survival": 40.3,
+    "frontier": 10.8,
+    "craft": 21.3
    },
-   "score": 29.1,
+   "score": 21.9,
    "ranked": true,
    "rank_pos": 3
   },
   {
    "name": "YungDzenis",
-   "hours": 3.21,
-   "level": 5,
+   "hours": 3.97,
+   "level": 8,
    "dims": 0,
-   "rank": 0,
+   "rank": 3,
    "origin": "Pyrios Pheonix Knight",
    "blessing": "Thors Blessing",
    "clazz": "Warrior",
-   "deaths": 9,
-   "mob_kills": 101,
+   "deaths": 11,
+   "mob_kills": 117,
    "boss_kills": 0,
-   "conquest_raw": 101,
-   "distance_km": 35.04,
-   "mined": 513,
+   "conquest_raw": 117,
+   "distance_km": 89.38,
+   "mined": 514,
    "crafted": 292,
-   "streak_h": 0.5,
-   "dmg_dealt": 25027,
+   "streak_h": 0.1,
+   "dmg_dealt": 60490,
    "dmg_taken_overflow": false,
    "top_killer": "Zombie",
    "top_mobs": [
     [
      "Zombie",
-     31
+     32
     ],
     [
      "Skeleton",
@@ -209,22 +209,22 @@
      16
     ],
     [
-     "Vex",
-     11
+     "Silverfish",
+     16
     ],
     [
-     "Creeper",
+     "Vex",
      11
     ]
    ],
    "parts": {
-    "threat": 25.0,
+    "threat": 40.0,
     "conquest": 3.0,
-    "survival": 21.4,
-    "frontier": 11.4,
+    "survival": 4.3,
+    "frontier": 29.1,
     "craft": 7.0
    },
-   "score": 16.5,
+   "score": 20.9,
    "ranked": true,
    "rank_pos": 4
   },
@@ -252,11 +252,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 73.7,
+    "survival": 73.4,
     "frontier": 0.8,
     "craft": 3.4
    },
-   "score": 15.0,
+   "score": 14.9,
    "ranked": false,
    "rank_pos": null
   },
@@ -293,11 +293,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.1,
-    "survival": 46.2,
+    "survival": 45.9,
     "frontier": 1.2,
     "craft": 10.1
    },
-   "score": 9.9,
+   "score": 9.8,
    "ranked": false,
    "rank_pos": null
   }
