@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T16:13:51Z",
+ "generated": "2026-09-15T17:13:54Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 56.7,
-  "mob_kills": 4587,
+  "hours": 56.8,
+  "mob_kills": 4589,
   "boss_kills": 0,
   "deaths": 124
  },
  "players": [
   {
    "name": "Flowko",
-   "hours": 22.48,
+   "hours": 22.58,
    "level": 20,
    "dims": 0,
    "rank": 5,
@@ -26,14 +26,14 @@
    "blessing": "Lokis Blessing",
    "clazz": "Cleric",
    "deaths": 54,
-   "mob_kills": 1345,
+   "mob_kills": 1347,
    "boss_kills": 0,
-   "conquest_raw": 1345,
-   "distance_km": 122.61,
-   "mined": 9295,
+   "conquest_raw": 1347,
+   "distance_km": 122.83,
+   "mined": 9296,
    "crafted": 3481,
-   "streak_h": 0.6,
-   "dmg_dealt": 592132,
+   "streak_h": 0.7,
+   "dmg_dealt": 593073,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -60,12 +60,12 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 45.9,
-    "survival": 35.7,
+    "conquest": 46.0,
+    "survival": 40.3,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 67.6,
+   "score": 68.6,
    "ranked": true,
    "rank_pos": 1
   },
