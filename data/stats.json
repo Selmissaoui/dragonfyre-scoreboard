@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T12:14:17Z",
+ "generated": "2026-09-16T16:14:19Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,8 +10,8 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 72.7,
-  "mob_kills": 9210,
+  "hours": 73.5,
+  "mob_kills": 9290,
   "boss_kills": 1,
   "deaths": 198
  },
@@ -59,40 +59,40 @@
     ]
    ],
    "parts": {
-    "threat": 100.0,
+    "threat": 76.0,
     "conquest": 100.0,
-    "survival": 42.3,
-    "frontier": 26.7,
+    "survival": 41.4,
+    "frontier": 26.4,
     "craft": 59.4
    },
-   "score": 79.1,
+   "score": 69.3,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Flowko",
-   "hours": 26.87,
-   "level": 17,
+   "hours": 27.31,
+   "level": 25,
    "dims": 0,
-   "rank": 4,
+   "rank": 5,
    "origin": "Pyrios Pheonix Knight",
    "blessing": "Lokis Blessing",
    "clazz": "Cleric",
    "deaths": 88,
-   "mob_kills": 3037,
+   "mob_kills": 3117,
    "boss_kills": 0,
-   "conquest_raw": 3037,
-   "distance_km": 182.18,
-   "mined": 9772,
-   "crafted": 3643,
-   "streak_h": 0.4,
-   "dmg_dealt": 1388426,
+   "conquest_raw": 3117,
+   "distance_km": 183.88,
+   "mined": 9773,
+   "crafted": 3644,
+   "streak_h": 0.9,
+   "dmg_dealt": 1431908,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     2555
+     2635
     ],
     [
      "Zombie",
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 89.5,
-    "conquest": 54.0,
-    "survival": 7.5,
+    "threat": 100.0,
+    "conquest": 55.4,
+    "survival": 16.9,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 59.8,
+   "score": 66.2,
    "ranked": true,
    "rank_pos": 2
   },
@@ -165,19 +165,19 @@
     ]
    ],
    "parts": {
-    "threat": 68.4,
+    "threat": 52.0,
     "conquest": 4.6,
-    "survival": 31.0,
-    "frontier": 30.7,
+    "survival": 30.0,
+    "frontier": 30.4,
     "craft": 8.1
    },
-   "score": 38.2,
+   "score": 31.4,
    "ranked": true,
    "rank_pos": 3
   },
   {
    "name": "SkizoroZ",
-   "hours": 8.44,
+   "hours": 8.8,
    "level": 6,
    "dims": 0,
    "rank": 2,
@@ -188,10 +188,10 @@
    "mob_kills": 309,
    "boss_kills": 0,
    "conquest_raw": 309,
-   "distance_km": 35.76,
-   "mined": 2757,
+   "distance_km": 36.08,
+   "mined": 2759,
    "crafted": 475,
-   "streak_h": 0.4,
+   "streak_h": 0.7,
    "dmg_dealt": 14139,
    "dmg_taken_overflow": false,
    "top_killer": "Player",
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 31.6,
+    "threat": 24.0,
     "conquest": 5.5,
-    "survival": 47.1,
-    "frontier": 7.9,
+    "survival": 53.5,
+    "frontier": 7.8,
     "craft": 20.6
    },
-   "score": 25.2,
+   "score": 23.5,
    "ranked": true,
    "rank_pos": 4
   },
@@ -252,7 +252,7 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 60.6,
+    "survival": 60.3,
     "frontier": 0.5,
     "craft": 3.2
    },
@@ -293,7 +293,7 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 47.9,
+    "survival": 47.5,
     "frontier": 0.8,
     "craft": 9.7
    },
