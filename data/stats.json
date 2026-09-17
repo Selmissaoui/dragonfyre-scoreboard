@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T14:14:47Z",
+ "generated": "2026-09-17T15:14:50Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,65 +10,12 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 89.6,
-  "mob_kills": 11559,
+  "hours": 91.6,
+  "mob_kills": 11644,
   "boss_kills": 4,
-  "deaths": 309
+  "deaths": 320
  },
  "players": [
-  {
-   "name": "SkizoroZ",
-   "hours": 13.96,
-   "level": 26,
-   "dims": 1,
-   "rank": 3,
-   "origin": "Hobrosi Dark Mage",
-   "blessing": "Chiron Blessing",
-   "clazz": "Explorer",
-   "deaths": 20,
-   "mob_kills": 606,
-   "boss_kills": 0,
-   "conquest_raw": 606,
-   "distance_km": 50.27,
-   "mined": 4520,
-   "crafted": 889,
-   "streak_h": 2.8,
-   "dmg_dealt": 39876,
-   "dmg_taken_overflow": false,
-   "top_killer": "Player",
-   "top_mobs": [
-    [
-     "Skeleton",
-     187
-    ],
-    [
-     "Zombie",
-     60
-    ],
-    [
-     "Creeper",
-     32
-    ],
-    [
-     "Husk",
-     27
-    ],
-    [
-     "Blaze",
-     27
-    ]
-   ],
-   "parts": {
-    "threat": 100.0,
-    "conquest": 9.1,
-    "survival": 83.2,
-    "frontier": 68.0,
-    "craft": 30.4
-   },
-   "score": 67.2,
-   "ranked": true,
-   "rank_pos": 1
-  },
   {
    "name": "Raiduz",
    "hours": 35.0,
@@ -112,13 +59,66 @@
     ]
    ],
    "parts": {
-    "threat": 11.5,
+    "threat": 37.5,
     "conquest": 100.0,
-    "survival": 38.1,
-    "frontier": 82.3,
+    "survival": 49.6,
+    "frontier": 79.4,
     "craft": 86.2
    },
-   "score": 49.8,
+   "score": 62.2,
+   "ranked": true,
+   "rank_pos": 1
+  },
+  {
+   "name": "SkizoroZ",
+   "hours": 14.9,
+   "level": 8,
+   "dims": 0,
+   "rank": 2,
+   "origin": "Hobrosi Dark Mage",
+   "blessing": "Chiron Blessing",
+   "clazz": "Explorer",
+   "deaths": 22,
+   "mob_kills": 683,
+   "boss_kills": 0,
+   "conquest_raw": 683,
+   "distance_km": 54.21,
+   "mined": 5641,
+   "crafted": 895,
+   "streak_h": 0.0,
+   "dmg_dealt": 42588,
+   "dmg_taken_overflow": false,
+   "top_killer": "Player",
+   "top_mobs": [
+    [
+     "Skeleton",
+     203
+    ],
+    [
+     "Zombie",
+     95
+    ],
+    [
+     "Creeper",
+     35
+    ],
+    [
+     "Spider",
+     29
+    ],
+    [
+     "Husk",
+     27
+    ]
+   ],
+   "parts": {
+    "threat": 100.0,
+    "conquest": 10.2,
+    "survival": 53.7,
+    "frontier": 7.5,
+    "craft": 35.8
+   },
+   "score": 55.8,
    "ranked": true,
    "rank_pos": 2
   },
@@ -165,34 +165,34 @@
     ]
    ],
    "parts": {
-    "threat": 11.5,
+    "threat": 37.5,
     "conquest": 60.0,
-    "survival": 21.0,
-    "frontier": 94.1,
+    "survival": 30.2,
+    "frontier": 89.6,
     "craft": 88.2
    },
-   "score": 37.6,
+   "score": 49.4,
    "ranked": true,
    "rank_pos": 3
   },
   {
    "name": "YungDzenis",
-   "hours": 7.7,
-   "level": 3,
+   "hours": 8.7,
+   "level": 0,
    "dims": 0,
    "rank": 0,
    "origin": "Pyrios Pheonix Knight",
    "blessing": "Thors Blessing",
    "clazz": "Warrior",
-   "deaths": 46,
-   "mob_kills": 352,
+   "deaths": 55,
+   "mob_kills": 360,
    "boss_kills": 0,
-   "conquest_raw": 352,
-   "distance_km": 249.86,
-   "mined": 1518,
-   "crafted": 321,
+   "conquest_raw": 360,
+   "distance_km": 287.21,
+   "mined": 1989,
+   "crafted": 865,
    "streak_h": 0.0,
-   "dmg_dealt": 132794,
+   "dmg_dealt": 140118,
    "dmg_taken_overflow": false,
    "top_killer": "Vindicator",
    "top_mobs": [
@@ -201,12 +201,12 @@
      103
     ],
     [
-     "Skeleton",
-     41
+     "Pillager",
+     44
     ],
     [
-     "Pillager",
-     39
+     "Skeleton",
+     43
     ],
     [
      "Spider",
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 11.5,
-    "conquest": 5.3,
+    "threat": 0.0,
+    "conquest": 5.4,
     "survival": 0.0,
     "frontier": 40.0,
-    "craft": 10.4
+    "craft": 18.1
    },
-   "score": 10.5,
+   "score": 6.2,
    "ranked": true,
    "rank_pos": 4
   },
@@ -252,11 +252,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 65.2,
-    "frontier": 0.4,
+    "survival": 88.3,
+    "frontier": 0.3,
     "craft": 2.6
    },
-   "score": 13.2,
+   "score": 17.8,
    "ranked": false,
    "rank_pos": null
   },
@@ -293,11 +293,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 57.9,
-    "frontier": 0.6,
+    "survival": 61.8,
+    "frontier": 0.5,
     "craft": 7.8
    },
-   "score": 12.0,
+   "score": 12.8,
    "ranked": false,
    "rank_pos": null
   }
