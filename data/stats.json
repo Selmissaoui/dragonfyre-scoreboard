@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T18:15:51Z",
+ "generated": "2026-09-19T19:15:52Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,30 +10,30 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 111.7,
-  "mob_kills": 19009,
+  "hours": 114.0,
+  "mob_kills": 19633,
   "boss_kills": 16,
-  "deaths": 402
+  "deaths": 405
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 47.4,
-   "level": 39,
+   "hours": 48.4,
+   "level": 40,
    "dims": 0,
    "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 118,
-   "mob_kills": 13109,
+   "mob_kills": 13111,
    "boss_kills": 12,
-   "conquest_raw": 14297,
-   "distance_km": 175.38,
-   "mined": 9575,
-   "crafted": 6616,
-   "streak_h": 0.8,
-   "dmg_dealt": 18882946,
+   "conquest_raw": 14299,
+   "distance_km": 177.55,
+   "mined": 10109,
+   "crafted": 7128,
+   "streak_h": 1.8,
+   "dmg_dealt": 18885893,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -47,11 +47,11 @@
     ],
     [
      "Zombie",
-     2807
+     2808
     ],
     [
      "Pillager",
-     214
+     215
     ],
     [
      "Zombified Piglin",
@@ -59,97 +59,44 @@
     ]
    ],
    "parts": {
-    "threat": 100.0,
+    "threat": 81.6,
     "conquest": 100.0,
-    "survival": 55.7,
-    "frontier": 22.7,
-    "craft": 76.8
+    "survival": 64.4,
+    "frontier": 23.0,
+    "craft": 77.9
    },
-   "score": 82.2,
+   "score": 76.7,
    "ranked": true,
    "rank_pos": 1
   },
   {
-   "name": "Flowko",
-   "hours": 36.31,
-   "level": 20,
-   "dims": 1,
-   "rank": 5,
-   "origin": "Pyrios Pheonix Knight",
-   "blessing": "Lokis Blessing",
-   "clazz": "Cleric",
-   "deaths": 199,
-   "mob_kills": 4817,
-   "boss_kills": 1,
-   "conquest_raw": 4841,
-   "distance_km": 237.0,
-   "mined": 17871,
-   "crafted": 4562,
-   "streak_h": 0.1,
-   "dmg_dealt": 2811740,
-   "dmg_taken_overflow": true,
-   "top_killer": "Silverfish",
-   "top_mobs": [
-    [
-     "Silverfish",
-     3551
-    ],
-    [
-     "Zombie",
-     597
-    ],
-    [
-     "Skeleton",
-     266
-    ],
-    [
-     "Sheep",
-     80
-    ],
-    [
-     "Pillager",
-     36
-    ]
-   ],
-   "parts": {
-    "threat": 51.3,
-    "conquest": 33.9,
-    "survival": 12.3,
-    "frontier": 90.7,
-    "craft": 84.5
-   },
-   "score": 44.7,
-   "ranked": true,
-   "rank_pos": 2
-  },
-  {
    "name": "SkizoroZ",
-   "hours": 16.88,
-   "level": 9,
+   "hours": 17.53,
+   "level": 49,
    "dims": 0,
    "rank": 5,
    "origin": "Hobrosi Dark Mage",
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
    "deaths": 23,
-   "mob_kills": 705,
+   "mob_kills": 1120,
    "boss_kills": 2,
-   "conquest_raw": 953,
-   "distance_km": 61.56,
-   "mined": 5901,
+   "conquest_raw": 1368,
+   "distance_km": 63.09,
+   "mined": 5903,
    "crafted": 936,
-   "streak_h": 1.9,
-   "dmg_dealt": 44648,
+   "streak_h": 2.6,
+   "dmg_dealt": 48339,
    "dmg_taken_overflow": false,
    "top_killer": "Player",
    "top_mobs": [
     [
-     "Skeleton",
-     203
+     "Zombie",
+     516
     ],
     [
-     "Zombie",
-     101
+     "Skeleton",
+     203
     ],
     [
      "Creeper",
@@ -165,13 +112,66 @@
     ]
    ],
    "parts": {
-    "threat": 23.1,
-    "conquest": 6.7,
-    "survival": 85.3,
-    "frontier": 8.0,
-    "craft": 23.6
+    "threat": 100.0,
+    "conquest": 9.6,
+    "survival": 85.8,
+    "frontier": 8.2,
+    "craft": 22.8
    },
-   "score": 29.9,
+   "score": 61.5,
+   "ranked": true,
+   "rank_pos": 2
+  },
+  {
+   "name": "Flowko",
+   "hours": 36.99,
+   "level": 17,
+   "dims": 1,
+   "rank": 5,
+   "origin": "Pyrios Pheonix Knight",
+   "blessing": "Lokis Blessing",
+   "clazz": "Cleric",
+   "deaths": 202,
+   "mob_kills": 5024,
+   "boss_kills": 1,
+   "conquest_raw": 5048,
+   "distance_km": 240.61,
+   "mined": 18143,
+   "crafted": 4596,
+   "streak_h": 0.1,
+   "dmg_dealt": 2945954,
+   "dmg_taken_overflow": true,
+   "top_killer": "Silverfish",
+   "top_mobs": [
+    [
+     "Silverfish",
+     3551
+    ],
+    [
+     "Zombie",
+     804
+    ],
+    [
+     "Skeleton",
+     266
+    ],
+    [
+     "Sheep",
+     80
+    ],
+    [
+     "Pillager",
+     36
+    ]
+   ],
+   "parts": {
+    "threat": 34.7,
+    "conquest": 35.3,
+    "survival": 12.1,
+    "frontier": 91.1,
+    "craft": 82.2
+   },
+   "score": 38.3,
    "ranked": true,
    "rank_pos": 3
   },
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 10.3,
+    "threat": 8.2,
     "conquest": 2.8,
-    "survival": 3.2,
+    "survival": 2.3,
     "frontier": 40.0,
-    "craft": 12.4
+    "craft": 11.8
    },
-   "score": 10.1,
+   "score": 9.0,
    "ranked": true,
    "rank_pos": 4
   },
@@ -252,11 +252,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 69.7,
+    "survival": 66.7,
     "frontier": 0.3,
-    "craft": 1.8
+    "craft": 1.7
    },
-   "score": 14.1,
+   "score": 13.5,
    "ranked": false,
    "rank_pos": null
   },
@@ -293,11 +293,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 59.4,
+    "survival": 59.0,
     "frontier": 0.5,
-    "craft": 5.3
+    "craft": 5.1
    },
-   "score": 12.2,
+   "score": 12.1,
    "ranked": false,
    "rank_pos": null
   }
