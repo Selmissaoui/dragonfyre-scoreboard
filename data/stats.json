@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T11:15:38Z",
+ "generated": "2026-09-19T13:15:41Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -71,7 +71,7 @@
   },
   {
    "name": "Flowko",
-   "hours": 34.36,
+   "hours": 34.39,
    "level": 17,
    "dims": 0,
    "rank": 5,
@@ -82,7 +82,7 @@
    "mob_kills": 4334,
    "boss_kills": 1,
    "conquest_raw": 4358,
-   "distance_km": 232.7,
+   "distance_km": 233.05,
    "mined": 13176,
    "crafted": 4462,
    "streak_h": 0.2,
