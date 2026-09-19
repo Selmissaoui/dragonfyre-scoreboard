@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T15:15:45Z",
+ "generated": "2026-09-19T16:15:47Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -18,7 +18,7 @@
  "players": [
   {
    "name": "Raiduz",
-   "hours": 45.37,
+   "hours": 45.4,
    "level": 74,
    "dims": 0,
    "rank": 5,
@@ -29,10 +29,10 @@
    "mob_kills": 13019,
    "boss_kills": 3,
    "conquest_raw": 13091,
-   "distance_km": 169.44,
+   "distance_km": 169.51,
    "mined": 8868,
    "crafted": 6078,
-   "streak_h": 1.2,
+   "streak_h": 1.3,
    "dmg_dealt": 13678049,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -71,7 +71,7 @@
   },
   {
    "name": "Flowko",
-   "hours": 36.24,
+   "hours": 36.25,
    "level": 20,
    "dims": 1,
    "rank": 5,
@@ -82,7 +82,7 @@
    "mob_kills": 4817,
    "boss_kills": 1,
    "conquest_raw": 4841,
-   "distance_km": 236.94,
+   "distance_km": 236.95,
    "mined": 17871,
    "crafted": 4472,
    "streak_h": 0.0,
@@ -167,7 +167,7 @@
    "parts": {
     "threat": 5.4,
     "conquest": 5.2,
-    "survival": 56.0,
+    "survival": 55.8,
     "frontier": 7.2,
     "craft": 23.2
    },
@@ -220,11 +220,11 @@
    "parts": {
     "threat": 5.4,
     "conquest": 3.1,
-    "survival": 5.0,
+    "survival": 4.6,
     "frontier": 40.0,
     "craft": 13.0
    },
-   "score": 8.6,
+   "score": 8.5,
    "ranked": true,
    "rank_pos": 4
   },
@@ -252,11 +252,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 76.1,
+    "survival": 74.8,
     "frontier": 0.3,
     "craft": 1.9
    },
-   "score": 15.3,
+   "score": 15.1,
    "ranked": false,
    "rank_pos": null
   },
@@ -293,7 +293,7 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 60.3,
+    "survival": 60.2,
     "frontier": 0.5,
     "craft": 5.6
    },
