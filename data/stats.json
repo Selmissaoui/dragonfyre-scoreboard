@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T08:16:08Z",
+ "generated": "2026-09-20T09:16:10Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 124.8,
-  "mob_kills": 20668,
+  "hours": 125.5,
+  "mob_kills": 20918,
   "boss_kills": 22,
   "deaths": 416
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 53.05,
+   "hours": 53.19,
    "level": 43,
    "dims": 1,
    "rank": 5,
@@ -29,10 +29,10 @@
    "mob_kills": 13480,
    "boss_kills": 18,
    "conquest_raw": 14812,
-   "distance_km": 201.42,
+   "distance_km": 201.47,
    "mined": 11200,
-   "crafted": 7168,
-   "streak_h": 3.0,
+   "crafted": 7169,
+   "streak_h": 3.2,
    "dmg_dealt": 19250849,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -61,13 +61,66 @@
    "parts": {
     "threat": 100.0,
     "conquest": 100.0,
-    "survival": 75.7,
-    "frontier": 86.1,
-    "craft": 79.3
+    "survival": 75.8,
+    "frontier": 56.1,
+    "craft": 79.2
    },
-   "score": 92.7,
+   "score": 89.7,
    "ranked": true,
    "rank_pos": 1
+  },
+  {
+   "name": "Flowko",
+   "hours": 40.3,
+   "level": 36,
+   "dims": 2,
+   "rank": 5,
+   "origin": "Pyrios Pheonix Knight",
+   "blessing": "Lokis Blessing",
+   "clazz": "Cleric",
+   "deaths": 207,
+   "mob_kills": 5807,
+   "boss_kills": 1,
+   "conquest_raw": 5831,
+   "distance_km": 271.81,
+   "mined": 19197,
+   "crafted": 4597,
+   "streak_h": 0.9,
+   "dmg_dealt": 3211714,
+   "dmg_taken_overflow": true,
+   "top_killer": "Silverfish",
+   "top_mobs": [
+    [
+     "Silverfish",
+     4132
+    ],
+    [
+     "Zombie",
+     809
+    ],
+    [
+     "Skeleton",
+     267
+    ],
+    [
+     "Sheep",
+     80
+    ],
+    [
+     "Valkyrie",
+     55
+    ]
+   ],
+   "parts": {
+    "threat": 83.7,
+    "conquest": 39.4,
+    "survival": 22.9,
+    "frontier": 95.2,
+    "craft": 82.1
+   },
+   "score": 61.5,
+   "ranked": true,
+   "rank_pos": 2
   },
   {
    "name": "SkizoroZ",
@@ -114,64 +167,11 @@
    "parts": {
     "threat": 41.9,
     "conquest": 10.1,
-    "survival": 71.5,
-    "frontier": 72.1,
-    "craft": 24.7
+    "survival": 70.5,
+    "frontier": 42.1,
+    "craft": 24.6
    },
-   "score": 42.0,
-   "ranked": true,
-   "rank_pos": 2
-  },
-  {
-   "name": "Flowko",
-   "hours": 39.79,
-   "level": 10,
-   "dims": 1,
-   "rank": 5,
-   "origin": "Pyrios Pheonix Knight",
-   "blessing": "Lokis Blessing",
-   "clazz": "Cleric",
-   "deaths": 207,
-   "mob_kills": 5557,
-   "boss_kills": 1,
-   "conquest_raw": 5581,
-   "distance_km": 271.0,
-   "mined": 19113,
-   "crafted": 4596,
-   "streak_h": 0.4,
-   "dmg_dealt": 3169115,
-   "dmg_taken_overflow": true,
-   "top_killer": "Silverfish",
-   "top_mobs": [
-    [
-     "Silverfish",
-     3882
-    ],
-    [
-     "Zombie",
-     809
-    ],
-    [
-     "Skeleton",
-     267
-    ],
-    [
-     "Sheep",
-     80
-    ],
-    [
-     "Valkyrie",
-     55
-    ]
-   ],
-   "parts": {
-    "threat": 23.3,
-    "conquest": 37.7,
-    "survival": 17.7,
-    "frontier": 95.1,
-    "craft": 82.1
-   },
-   "score": 35.9,
+   "score": 38.8,
    "ranked": true,
    "rank_pos": 3
   },
@@ -220,11 +220,11 @@
    "parts": {
     "threat": 9.3,
     "conquest": 2.7,
-    "survival": 2.0,
+    "survival": 1.9,
     "frontier": 40.0,
     "craft": 11.5
    },
-   "score": 9.4,
+   "score": 9.3,
    "ranked": true,
    "rank_pos": 4
   },
@@ -252,11 +252,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 65.6,
+    "survival": 65.2,
     "frontier": 0.3,
     "craft": 1.6
    },
-   "score": 13.2,
+   "score": 13.1,
    "ranked": false,
    "rank_pos": null
   },
