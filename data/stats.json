@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T17:16:22Z",
+ "generated": "2026-09-21T15:16:29Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,8 +10,8 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 131.1,
-  "mob_kills": 21576,
+  "hours": 131.3,
+  "mob_kills": 21578,
   "boss_kills": 33,
   "deaths": 456
  },
@@ -63,7 +63,7 @@
     "conquest": 100.0,
     "survival": 56.9,
     "frontier": 20.0,
-    "craft": 79.1
+    "craft": 78.7
    },
    "score": 82.3,
    "ranked": true,
@@ -71,7 +71,7 @@
   },
   {
    "name": "Flowko",
-   "hours": 41.45,
+   "hours": 41.62,
    "level": 30,
    "dims": 0,
    "rank": 5,
@@ -79,13 +79,13 @@
    "blessing": "Lokis Blessing",
    "clazz": "Cleric",
    "deaths": 208,
-   "mob_kills": 6058,
+   "mob_kills": 6060,
    "boss_kills": 1,
-   "conquest_raw": 6082,
-   "distance_km": 283.38,
-   "mined": 20453,
+   "conquest_raw": 6084,
+   "distance_km": 283.81,
+   "mined": 20756,
    "crafted": 4597,
-   "streak_h": 0.1,
+   "streak_h": 0.3,
    "dmg_dealt": 3385944,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -100,7 +100,7 @@
     ],
     [
      "Skeleton",
-     298
+     299
     ],
     [
      "Sheep",
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 90.9,
     "conquest": 39.9,
-    "survival": 26.0,
+    "survival": 29.7,
     "frontier": 27.3,
     "craft": 82.1
    },
-   "score": 58.4,
+   "score": 59.1,
    "ranked": true,
    "rank_pos": 2
   },
@@ -169,7 +169,7 @@
     "conquest": 9.8,
     "survival": 87.8,
     "frontier": 69.0,
-    "craft": 23.5
+    "craft": 23.3
    },
    "score": 49.9,
    "ranked": true,
@@ -222,7 +222,7 @@
     "conquest": 3.9,
     "survival": 10.6,
     "frontier": 40.0,
-    "craft": 11.6
+    "craft": 11.5
    },
    "score": 12.5,
    "ranked": true,
@@ -275,7 +275,7 @@
     "conquest": 0.2,
     "survival": 25.2,
     "frontier": 1.0,
-    "craft": 2.6
+    "craft": 2.5
    },
    "score": 10.2,
    "ranked": true,
