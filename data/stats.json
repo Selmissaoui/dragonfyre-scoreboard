@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T16:16:53Z",
+ "generated": "2026-09-22T17:16:55Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,30 +10,30 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 140.8,
-  "mob_kills": 22284,
-  "boss_kills": 38,
-  "deaths": 465
+  "hours": 141.9,
+  "mob_kills": 22318,
+  "boss_kills": 39,
+  "deaths": 466
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 60.1,
-   "level": 21,
+   "hours": 60.64,
+   "level": 11,
    "dims": 1,
-   "rank": 5,
+   "rank": 4,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 126,
-   "mob_kills": 14025,
-   "boss_kills": 34,
-   "conquest_raw": 15741,
-   "distance_km": 230.23,
-   "mined": 15138,
+   "deaths": 127,
+   "mob_kills": 14038,
+   "boss_kills": 35,
+   "conquest_raw": 15853,
+   "distance_km": 234.1,
+   "mined": 15737,
    "crafted": 8158,
-   "streak_h": 2.1,
-   "dmg_dealt": 19983961,
+   "streak_h": 0.1,
+   "dmg_dealt": 20049259,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -47,7 +47,7 @@
     ],
     [
      "Zombie",
-     2881
+     2883
     ],
     [
      "Pillager",
@@ -55,17 +55,17 @@
     ],
     [
      "Zombified Piglin",
-     184
+     186
     ]
    ],
    "parts": {
-    "threat": 70.0,
+    "threat": 36.7,
     "conquest": 100.0,
-    "survival": 80.9,
-    "frontier": 82.2,
-    "craft": 86.5
+    "survival": 52.4,
+    "frontier": 82.5,
+    "craft": 87.9
    },
-   "score": 81.7,
+   "score": 62.8,
    "ranked": true,
    "rank_pos": 1
   },
@@ -113,8 +113,8 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 38.7,
-    "survival": 28.7,
+    "conquest": 38.4,
+    "survival": 28.9,
     "frontier": 27.3,
     "craft": 78.2
    },
@@ -124,22 +124,22 @@
   },
   {
    "name": "SkizoroZ",
-   "hours": 24.88,
-   "level": 13,
-   "dims": 0,
+   "hours": 25.43,
+   "level": 16,
+   "dims": 1,
    "rank": 4,
    "origin": "Hobrosi Dark Mage",
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
    "deaths": 31,
-   "mob_kills": 1589,
+   "mob_kills": 1610,
    "boss_kills": 2,
-   "conquest_raw": 1837,
-   "distance_km": 108.45,
-   "mined": 8121,
-   "crafted": 1071,
-   "streak_h": 1.4,
-   "dmg_dealt": 84133,
+   "conquest_raw": 1858,
+   "distance_km": 110.65,
+   "mined": 8531,
+   "crafted": 1115,
+   "streak_h": 2.0,
+   "dmg_dealt": 84257,
    "dmg_taken_overflow": false,
    "top_killer": "Player",
    "top_mobs": [
@@ -153,7 +153,7 @@
     ],
     [
      "Creeper",
-     56
+     59
     ],
     [
      "Spider",
@@ -161,17 +161,17 @@
     ],
     [
      "Phantom",
-     30
+     33
     ]
    ],
    "parts": {
-    "threat": 43.3,
+    "threat": 53.3,
     "conquest": 11.7,
-    "survival": 78.6,
-    "frontier": 10.4,
-    "craft": 26.1
+    "survival": 88.9,
+    "frontier": 70.6,
+    "craft": 27.4
    },
-   "score": 38.3,
+   "score": 50.5,
    "ranked": true,
    "rank_pos": 3
   },
@@ -220,11 +220,11 @@
    "parts": {
     "threat": 13.3,
     "conquest": 3.8,
-    "survival": 8.6,
+    "survival": 9.0,
     "frontier": 40.0,
     "craft": 10.8
    },
-   "score": 12.5,
+   "score": 12.6,
    "ranked": true,
    "rank_pos": 4
   },
@@ -273,11 +273,11 @@
    "parts": {
     "threat": 13.3,
     "conquest": 0.2,
-    "survival": 23.1,
+    "survival": 23.6,
     "frontier": 1.0,
     "craft": 2.3
    },
-   "score": 10.2,
+   "score": 10.3,
    "ranked": true,
    "rank_pos": 5
   },
