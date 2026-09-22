@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T22:16:39Z",
+ "generated": "2026-09-22T08:16:44Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,12 +10,65 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 135.7,
-  "mob_kills": 21969,
-  "boss_kills": 35,
+  "hours": 135.9,
+  "mob_kills": 22003,
+  "boss_kills": 37,
   "deaths": 458
  },
  "players": [
+  {
+   "name": "Raiduz",
+   "hours": 57.47,
+   "level": 22,
+   "dims": 1,
+   "rank": 5,
+   "origin": "Birdofparadise",
+   "blessing": "Chiron Blessing",
+   "clazz": "Cleric",
+   "deaths": 122,
+   "mob_kills": 13864,
+   "boss_kills": 33,
+   "conquest_raw": 15556,
+   "distance_km": 219.71,
+   "mined": 13137,
+   "crafted": 8155,
+   "streak_h": 1.0,
+   "dmg_dealt": 19788222,
+   "dmg_taken_overflow": true,
+   "top_killer": "Silverfish",
+   "top_mobs": [
+    [
+     "Silverfish",
+     5008
+    ],
+    [
+     "Skeleton",
+     3963
+    ],
+    [
+     "Zombie",
+     2867
+    ],
+    [
+     "Pillager",
+     229
+    ],
+    [
+     "Zombified Piglin",
+     184
+    ]
+   ],
+   "parts": {
+    "threat": 57.9,
+    "conquest": 100.0,
+    "survival": 59.5,
+    "frontier": 51.1,
+    "craft": 81.6
+   },
+   "score": 69.2,
+   "ranked": true,
+   "rank_pos": 1
+  },
   {
    "name": "SkizoroZ",
    "hours": 22.6,
@@ -60,65 +113,12 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 11.1,
+    "conquest": 11.0,
     "survival": 88.7,
     "frontier": 69.6,
     "craft": 24.0
    },
    "score": 68.7,
-   "ranked": true,
-   "rank_pos": 1
-  },
-  {
-   "name": "Raiduz",
-   "hours": 57.28,
-   "level": 19,
-   "dims": 1,
-   "rank": 5,
-   "origin": "Birdofparadise",
-   "blessing": "Chiron Blessing",
-   "clazz": "Cleric",
-   "deaths": 122,
-   "mob_kills": 13830,
-   "boss_kills": 31,
-   "conquest_raw": 15474,
-   "distance_km": 218.62,
-   "mined": 12975,
-   "crafted": 8155,
-   "streak_h": 0.8,
-   "dmg_dealt": 19743849,
-   "dmg_taken_overflow": true,
-   "top_killer": "Silverfish",
-   "top_mobs": [
-    [
-     "Silverfish",
-     5008
-    ],
-    [
-     "Skeleton",
-     3953
-    ],
-    [
-     "Zombie",
-     2865
-    ],
-    [
-     "Pillager",
-     216
-    ],
-    [
-     "Zombified Piglin",
-     184
-    ]
-   ],
-   "parts": {
-    "threat": 50.0,
-    "conquest": 100.0,
-    "survival": 57.6,
-    "frontier": 51.0,
-    "craft": 81.3
-   },
-   "score": 65.7,
    "ranked": true,
    "rank_pos": 2
   },
@@ -166,12 +166,12 @@
    ],
    "parts": {
     "threat": 78.9,
-    "conquest": 39.3,
+    "conquest": 39.1,
     "survival": 27.0,
     "frontier": 27.3,
     "craft": 78.2
    },
-   "score": 53.5,
+   "score": 53.4,
    "ranked": true,
    "rank_pos": 3
   },
