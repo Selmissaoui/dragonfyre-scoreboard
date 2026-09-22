@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T08:16:44Z",
+ "generated": "2026-09-22T09:16:46Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 135.9,
-  "mob_kills": 22003,
+  "hours": 136.2,
+  "mob_kills": 22009,
   "boss_kills": 37,
   "deaths": 458
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 57.47,
+   "hours": 57.74,
    "level": 22,
    "dims": 1,
    "rank": 5,
@@ -26,14 +26,14 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 122,
-   "mob_kills": 13864,
+   "mob_kills": 13870,
    "boss_kills": 33,
-   "conquest_raw": 15556,
-   "distance_km": 219.71,
-   "mined": 13137,
+   "conquest_raw": 15562,
+   "distance_km": 220.6,
+   "mined": 13179,
    "crafted": 8155,
-   "streak_h": 1.0,
-   "dmg_dealt": 19788222,
+   "streak_h": 1.3,
+   "dmg_dealt": 19788821,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -47,7 +47,7 @@
     ],
     [
      "Zombie",
-     2867
+     2868
     ],
     [
      "Pillager",
@@ -61,11 +61,11 @@
    "parts": {
     "threat": 57.9,
     "conquest": 100.0,
-    "survival": 59.5,
-    "frontier": 51.1,
-    "craft": 81.6
+    "survival": 62.2,
+    "frontier": 51.2,
+    "craft": 81.7
    },
-   "score": 69.2,
+   "score": 69.8,
    "ranked": true,
    "rank_pos": 1
   },
