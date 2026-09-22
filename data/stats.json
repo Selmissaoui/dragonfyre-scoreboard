@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T17:16:55Z",
+ "generated": "2026-09-22T20:16:58Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,30 +10,30 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 141.9,
-  "mob_kills": 22318,
+  "hours": 142.4,
+  "mob_kills": 22481,
   "boss_kills": 39,
   "deaths": 466
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 60.64,
-   "level": 11,
+   "hours": 61.09,
+   "level": 30,
    "dims": 1,
-   "rank": 4,
+   "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 127,
-   "mob_kills": 14038,
+   "mob_kills": 14201,
    "boss_kills": 35,
-   "conquest_raw": 15853,
-   "distance_km": 234.1,
-   "mined": 15737,
+   "conquest_raw": 16016,
+   "distance_km": 235.61,
+   "mined": 15785,
    "crafted": 8158,
-   "streak_h": 0.1,
-   "dmg_dealt": 20049259,
+   "streak_h": 0.5,
+   "dmg_dealt": 20439461,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -59,13 +59,13 @@
     ]
    ],
    "parts": {
-    "threat": 36.7,
+    "threat": 100.0,
     "conquest": 100.0,
-    "survival": 52.4,
-    "frontier": 82.5,
-    "craft": 87.9
+    "survival": 58.5,
+    "frontier": 82.7,
+    "craft": 88.0
    },
-   "score": 62.8,
+   "score": 89.4,
    "ranked": true,
    "rank_pos": 1
   },
@@ -113,12 +113,12 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 38.4,
+    "conquest": 38.0,
     "survival": 28.9,
     "frontier": 27.3,
     "craft": 78.2
    },
-   "score": 62.0,
+   "score": 61.9,
    "ranked": true,
    "rank_pos": 2
   },
@@ -166,12 +166,12 @@
    ],
    "parts": {
     "threat": 53.3,
-    "conquest": 11.7,
+    "conquest": 11.6,
     "survival": 88.9,
     "frontier": 70.6,
     "craft": 27.4
    },
-   "score": 50.5,
+   "score": 50.4,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,7 +219,7 @@
    ],
    "parts": {
     "threat": 13.3,
-    "conquest": 3.8,
+    "conquest": 3.7,
     "survival": 9.0,
     "frontier": 40.0,
     "craft": 10.8
