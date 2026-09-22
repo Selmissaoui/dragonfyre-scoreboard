@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T20:16:58Z",
+ "generated": "2026-09-22T21:17:00Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 142.4,
-  "mob_kills": 22481,
-  "boss_kills": 39,
+  "hours": 143.4,
+  "mob_kills": 22483,
+  "boss_kills": 40,
   "deaths": 466
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 61.09,
+   "hours": 62.09,
    "level": 30,
    "dims": 1,
    "rank": 5,
@@ -26,14 +26,14 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 127,
-   "mob_kills": 14201,
-   "boss_kills": 35,
-   "conquest_raw": 16016,
-   "distance_km": 235.61,
-   "mined": 15785,
+   "mob_kills": 14203,
+   "boss_kills": 36,
+   "conquest_raw": 16042,
+   "distance_km": 237.83,
+   "mined": 15941,
    "crafted": 8158,
-   "streak_h": 0.5,
-   "dmg_dealt": 20439461,
+   "streak_h": 1.5,
+   "dmg_dealt": 20440011,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -51,7 +51,7 @@
     ],
     [
      "Pillager",
-     229
+     230
     ],
     [
      "Zombified Piglin",
@@ -61,11 +61,11 @@
    "parts": {
     "threat": 100.0,
     "conquest": 100.0,
-    "survival": 58.5,
-    "frontier": 82.7,
-    "craft": 88.0
+    "survival": 73.8,
+    "frontier": 82.9,
+    "craft": 88.4
    },
-   "score": 89.4,
+   "score": 92.5,
    "ranked": true,
    "rank_pos": 1
   },
@@ -113,7 +113,7 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 38.0,
+    "conquest": 37.9,
     "survival": 28.9,
     "frontier": 27.3,
     "craft": 78.2
