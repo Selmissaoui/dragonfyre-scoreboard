@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T17:17:32Z",
+ "generated": "2026-09-24T18:17:35Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,8 +10,8 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 148.8,
-  "mob_kills": 23073,
+  "hours": 148.9,
+  "mob_kills": 23076,
   "boss_kills": 45,
   "deaths": 498
  },
@@ -71,7 +71,7 @@
   },
   {
    "name": "SkizoroZ",
-   "hours": 25.43,
+   "hours": 25.56,
    "level": 16,
    "dims": 1,
    "rank": 4,
@@ -79,13 +79,13 @@
    "blessing": "Chiron Blessing",
    "clazz": "Explorer",
    "deaths": 31,
-   "mob_kills": 1610,
+   "mob_kills": 1613,
    "boss_kills": 2,
-   "conquest_raw": 1858,
-   "distance_km": 110.65,
+   "conquest_raw": 1861,
+   "distance_km": 110.8,
    "mined": 8531,
-   "crafted": 1115,
-   "streak_h": 2.0,
+   "crafted": 1136,
+   "streak_h": 2.1,
    "dmg_dealt": 84257,
    "dmg_taken_overflow": false,
    "top_killer": "Player",
@@ -103,22 +103,22 @@
      59
     ],
     [
-     "Spider",
-     35
+     "Phantom",
+     36
     ],
     [
-     "Phantom",
-     33
+     "Spider",
+     35
     ]
    ],
    "parts": {
     "threat": 45.7,
     "conquest": 11.3,
-    "survival": 72.8,
-    "frontier": 70.6,
-    "craft": 26.9
+    "survival": 73.6,
+    "frontier": 70.7,
+    "craft": 27.1
    },
-   "score": 44.1,
+   "score": 44.3,
    "ranked": true,
    "rank_pos": 2
   },
