@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T08:18:04Z",
+ "generated": "2026-09-27T09:18:06Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 153.2,
-  "mob_kills": 23901,
+  "hours": 154.2,
+  "mob_kills": 23910,
   "boss_kills": 45,
-  "deaths": 502
+  "deaths": 503
  },
  "players": [
   {
@@ -71,22 +71,22 @@
   },
   {
    "name": "Raiduz",
-   "hours": 65.38,
-   "level": 19,
+   "hours": 66.38,
+   "level": 10,
    "dims": 0,
-   "rank": 5,
+   "rank": 4,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 128,
-   "mob_kills": 14294,
+   "deaths": 129,
+   "mob_kills": 14303,
    "boss_kills": 40,
-   "conquest_raw": 16429,
-   "distance_km": 247.96,
-   "mined": 19549,
-   "crafted": 8160,
-   "streak_h": 0.3,
-   "dmg_dealt": 20767220,
+   "conquest_raw": 16438,
+   "distance_km": 250.2,
+   "mined": 19590,
+   "crafted": 8165,
+   "streak_h": 0.0,
+   "dmg_dealt": 20781344,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 51.4,
+    "threat": 27.0,
     "conquest": 100.0,
-    "survival": 55.7,
-    "frontier": 23.9,
-    "craft": 96.1
+    "survival": 52.3,
+    "frontier": 24.1,
+    "craft": 96.2
    },
-   "score": 63.9,
+   "score": 53.5,
    "ranked": true,
    "rank_pos": 2
   },
@@ -169,7 +169,7 @@
     "conquest": 40.7,
     "survival": 21.7,
     "frontier": 88.4,
-    "craft": 87.8
+    "craft": 87.7
    },
    "score": 31.0,
    "ranked": true,
