@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T09:18:06Z",
+ "generated": "2026-09-27T10:18:07Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,68 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 154.2,
-  "mob_kills": 23910,
+  "hours": 154.6,
+  "mob_kills": 24037,
   "boss_kills": 45,
   "deaths": 503
  },
  "players": [
   {
+   "name": "Raiduz",
+   "hours": 66.6,
+   "level": 26,
+   "dims": 0,
+   "rank": 5,
+   "origin": "Birdofparadise",
+   "blessing": "Chiron Blessing",
+   "clazz": "Cleric",
+   "deaths": 129,
+   "mob_kills": 14430,
+   "boss_kills": 40,
+   "conquest_raw": 16565,
+   "distance_km": 252.25,
+   "mined": 19610,
+   "crafted": 8165,
+   "streak_h": 0.3,
+   "dmg_dealt": 20906565,
+   "dmg_taken_overflow": true,
+   "top_killer": "Silverfish",
+   "top_mobs": [
+    [
+     "Silverfish",
+     5008
+    ],
+    [
+     "Skeleton",
+     4008
+    ],
+    [
+     "Zombie",
+     2938
+    ],
+    [
+     "Pillager",
+     230
+    ],
+    [
+     "Zombified Piglin",
+     195
+    ]
+   ],
+   "parts": {
+    "threat": 70.3,
+    "conquest": 100.0,
+    "survival": 55.7,
+    "frontier": 24.3,
+    "craft": 96.2
+   },
+   "score": 71.5,
+   "ranked": true,
+   "rank_pos": 1
+  },
+  {
    "name": "SkizoroZ",
-   "hours": 29.26,
+   "hours": 29.52,
    "level": 37,
    "dims": 1,
    "rank": 5,
@@ -29,10 +82,10 @@
    "mob_kills": 2408,
    "boss_kills": 2,
    "conquest_raw": 2656,
-   "distance_km": 119.64,
+   "distance_km": 119.76,
    "mined": 10395,
    "crafted": 1589,
-   "streak_h": 2.5,
+   "streak_h": 2.7,
    "dmg_dealt": 99360,
    "dmg_taken_overflow": false,
    "top_killer": "Lightning Dragon",
@@ -60,65 +113,12 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 16.2,
-    "survival": 89.4,
+    "conquest": 16.0,
+    "survival": 89.5,
     "frontier": 71.5,
     "craft": 34.2
    },
    "score": 70.8,
-   "ranked": true,
-   "rank_pos": 1
-  },
-  {
-   "name": "Raiduz",
-   "hours": 66.38,
-   "level": 10,
-   "dims": 0,
-   "rank": 4,
-   "origin": "Birdofparadise",
-   "blessing": "Chiron Blessing",
-   "clazz": "Cleric",
-   "deaths": 129,
-   "mob_kills": 14303,
-   "boss_kills": 40,
-   "conquest_raw": 16438,
-   "distance_km": 250.2,
-   "mined": 19590,
-   "crafted": 8165,
-   "streak_h": 0.0,
-   "dmg_dealt": 20781344,
-   "dmg_taken_overflow": true,
-   "top_killer": "Silverfish",
-   "top_mobs": [
-    [
-     "Silverfish",
-     5008
-    ],
-    [
-     "Skeleton",
-     4006
-    ],
-    [
-     "Zombie",
-     2920
-    ],
-    [
-     "Pillager",
-     230
-    ],
-    [
-     "Zombified Piglin",
-     195
-    ]
-   ],
-   "parts": {
-    "threat": 27.0,
-    "conquest": 100.0,
-    "survival": 52.3,
-    "frontier": 24.1,
-    "craft": 96.2
-   },
-   "score": 53.5,
    "ranked": true,
    "rank_pos": 2
   },
@@ -166,12 +166,12 @@
    ],
    "parts": {
     "threat": 8.1,
-    "conquest": 40.7,
+    "conquest": 40.4,
     "survival": 21.7,
     "frontier": 88.4,
     "craft": 87.7
    },
-   "score": 31.0,
+   "score": 30.9,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,12 +219,12 @@
    ],
    "parts": {
     "threat": 10.8,
-    "conquest": 3.7,
-    "survival": 7.2,
+    "conquest": 3.6,
+    "survival": 6.7,
     "frontier": 40.0,
     "craft": 10.6
    },
-   "score": 11.2,
+   "score": 11.1,
    "ranked": true,
    "rank_pos": 4
   },
@@ -273,11 +273,11 @@
    "parts": {
     "threat": 10.8,
     "conquest": 0.2,
-    "survival": 21.8,
+    "survival": 21.2,
     "frontier": 1.0,
     "craft": 2.3
    },
-   "score": 8.9,
+   "score": 8.8,
    "ranked": true,
    "rank_pos": 5
   },
