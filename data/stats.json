@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T08:18:32Z",
+ "generated": "2026-09-28T11:18:35Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,40 +10,40 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 165.5,
-  "mob_kills": 30062,
+  "hours": 166.1,
+  "mob_kills": 30532,
   "boss_kills": 52,
-  "deaths": 530
+  "deaths": 533
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 72.97,
-   "level": 64,
+   "hours": 73.57,
+   "level": 22,
    "dims": 0,
    "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 142,
-   "mob_kills": 19650,
+   "deaths": 145,
+   "mob_kills": 20120,
    "boss_kills": 42,
-   "conquest_raw": 21933,
-   "distance_km": 279.49,
+   "conquest_raw": 22403,
+   "distance_km": 280.9,
    "mined": 21468,
    "crafted": 8331,
-   "streak_h": 0.4,
-   "dmg_dealt": 28083077,
+   "streak_h": 0.3,
+   "dmg_dealt": 28538714,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     8616
+     8862
     ],
     [
      "Zombie",
-     4375
+     4599
     ],
     [
      "Skeleton",
@@ -61,11 +61,11 @@
    "parts": {
     "threat": 100.0,
     "conquest": 100.0,
-    "survival": 72.2,
-    "frontier": 26.9,
+    "survival": 67.0,
+    "frontier": 27.0,
     "craft": 100.0
    },
-   "score": 87.1,
+   "score": 86.1,
    "ranked": true,
    "rank_pos": 1
   },
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 9.4,
-    "conquest": 13.8,
+    "threat": 27.3,
+    "conquest": 13.6,
     "survival": 68.8,
     "frontier": 72.6,
     "craft": 39.9
    },
-   "score": 30.2,
+   "score": 37.3,
    "ranked": true,
    "rank_pos": 2
   },
@@ -165,13 +165,13 @@
     ]
    ],
    "parts": {
-    "threat": 6.2,
-    "conquest": 33.5,
+    "threat": 18.2,
+    "conquest": 32.8,
     "survival": 31.3,
     "frontier": 29.5,
     "craft": 86.8
    },
-   "score": 24.4,
+   "score": 29.0,
    "ranked": true,
    "rank_pos": 3
   },
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 6.2,
+    "threat": 18.2,
     "conquest": 2.7,
     "survival": 30.0,
     "frontier": 40.0,
     "craft": 10.5
    },
-   "score": 13.7,
+   "score": 18.5,
    "ranked": true,
    "rank_pos": 4
   },
@@ -271,13 +271,13 @@
     ]
    ],
    "parts": {
-    "threat": 6.2,
+    "threat": 18.2,
     "conquest": 0.1,
     "survival": 44.6,
     "frontier": 1.0,
     "craft": 2.3
    },
-   "score": 11.7,
+   "score": 16.4,
    "ranked": true,
    "rank_pos": 5
   },
