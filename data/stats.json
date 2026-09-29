@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T15:19:10Z",
+ "generated": "2026-09-29T16:19:12Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,29 +10,29 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 182.6,
-  "mob_kills": 38198,
-  "boss_kills": 56,
-  "deaths": 574
+  "hours": 184.3,
+  "mob_kills": 38841,
+  "boss_kills": 58,
+  "deaths": 578
  },
  "players": [
   {
    "name": "SkizoroZ",
-   "hours": 39.31,
-   "level": 62,
+   "hours": 39.66,
+   "level": 15,
    "dims": 1,
-   "rank": 5,
+   "rank": 4,
    "origin": "Hobrosi Dark Mage",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 52,
-   "mob_kills": 3972,
-   "boss_kills": 8,
-   "conquest_raw": 4589,
-   "distance_km": 159.76,
-   "mined": 15163,
+   "deaths": 54,
+   "mob_kills": 3984,
+   "boss_kills": 9,
+   "conquest_raw": 4750,
+   "distance_km": 168.38,
+   "mined": 15173,
    "crafted": 3322,
-   "streak_h": 3.1,
+   "streak_h": 0.1,
    "dmg_dealt": 286616,
    "dmg_taken_overflow": false,
    "top_killer": "Ancient Remnant",
@@ -43,11 +43,11 @@
     ],
     [
      "Enderman",
-     420
+     422
     ],
     [
      "Silverfish",
-     264
+     265
     ],
     [
      "Skeleton",
@@ -60,47 +60,47 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 15.9,
-    "survival": 87.9,
-    "frontier": 75.4,
-    "craft": 52.0
+    "conquest": 16.1,
+    "survival": 62.6,
+    "frontier": 76.2,
+    "craft": 51.0
    },
-   "score": 71.7,
+   "score": 66.7,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Raiduz",
-   "hours": 82.24,
+   "hours": 83.24,
    "level": 0,
-   "dims": 0,
-   "rank": 5,
+   "dims": 1,
+   "rank": 4,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 162,
-   "mob_kills": 26348,
-   "boss_kills": 45,
-   "conquest_raw": 28778,
-   "distance_km": 325.07,
-   "mined": 23627,
+   "deaths": 163,
+   "mob_kills": 26974,
+   "boss_kills": 46,
+   "conquest_raw": 29553,
+   "distance_km": 333.44,
+   "mined": 24377,
    "crafted": 8352,
-   "streak_h": 0.6,
-   "dmg_dealt": 38942532,
+   "streak_h": 0.1,
+   "dmg_dealt": 39840358,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     13560
+     14143
     ],
     [
      "Zombie",
-     5951
+     5968
     ],
     [
      "Skeleton",
-     4015
+     4016
     ],
     [
      "Pillager",
@@ -114,32 +114,32 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 57.8,
-    "frontier": 31.3,
+    "survival": 57.1,
+    "frontier": 92.1,
     "craft": 100.0
    },
-   "score": 44.7,
+   "score": 50.6,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "Flowko",
-   "hours": 46.86,
-   "level": 4,
-   "dims": 0,
-   "rank": 1,
+   "hours": 47.18,
+   "level": 7,
+   "dims": 1,
+   "rank": 5,
    "origin": "Pyrios Pheonix Knight",
    "blessing": "Lokis Blessing",
    "clazz": "Cleric",
-   "deaths": 260,
-   "mob_kills": 7268,
+   "deaths": 261,
+   "mob_kills": 7273,
    "boss_kills": 2,
-   "conquest_raw": 7366,
-   "distance_km": 308.91,
-   "mined": 21365,
+   "conquest_raw": 7371,
+   "distance_km": 317.99,
+   "mined": 21370,
    "crafted": 6174,
-   "streak_h": 0.0,
-   "dmg_dealt": 4700781,
+   "streak_h": 0.2,
+   "dmg_dealt": 4728417,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -165,13 +165,13 @@
     ]
    ],
    "parts": {
-    "threat": 6.5,
-    "conquest": 25.6,
-    "survival": 19.4,
-    "frontier": 29.7,
-    "craft": 82.2
+    "threat": 46.7,
+    "conquest": 24.9,
+    "survival": 29.5,
+    "frontier": 90.6,
+    "craft": 80.8
    },
-   "score": 19.9,
+   "score": 43.9,
    "ranked": true,
    "rank_pos": 3
   },
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 6.5,
-    "conquest": 2.1,
-    "survival": 5.8,
+    "threat": 26.7,
+    "conquest": 2.0,
+    "survival": 30.0,
     "frontier": 40.0,
-    "craft": 10.0
+    "craft": 9.8
    },
-   "score": 8.8,
+   "score": 21.7,
    "ranked": true,
    "rank_pos": 4
   },
@@ -271,13 +271,13 @@
     ]
    ],
    "parts": {
-    "threat": 6.5,
+    "threat": 26.7,
     "conquest": 0.1,
-    "survival": 20.4,
+    "survival": 44.6,
     "frontier": 1.0,
     "craft": 2.2
    },
-   "score": 6.9,
+   "score": 19.8,
    "ranked": true,
    "rank_pos": 5
   },
@@ -314,11 +314,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 0.0,
-    "survival": 60.7,
+    "survival": 64.7,
     "frontier": 0.4,
     "craft": 4.1
    },
-   "score": 12.4,
+   "score": 13.2,
    "ranked": false,
    "rank_pos": null
   }
