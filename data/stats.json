@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T21:19:53Z",
+ "generated": "2026-09-30T22:19:55Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 208.2,
-  "mob_kills": 44145,
+  "hours": 209.1,
+  "mob_kills": 47847,
   "boss_kills": 81,
-  "deaths": 584
+  "deaths": 586
  },
  "players": [
   {
@@ -60,39 +60,39 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 26.8,
+    "conquest": 24.2,
     "survival": 53.3,
     "frontier": 92.9,
     "craft": 82.2
    },
-   "score": 70.8,
+   "score": 70.1,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Raiduz",
-   "hours": 93.63,
+   "hours": 94.55,
    "level": 0,
    "dims": 1,
    "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 167,
-   "mob_kills": 30113,
+   "deaths": 169,
+   "mob_kills": 33815,
    "boss_kills": 62,
-   "conquest_raw": 34426,
-   "distance_km": 386.64,
+   "conquest_raw": 38128,
+   "distance_km": 388.17,
    "mined": 26481,
    "crafted": 8639,
-   "streak_h": 1.1,
-   "dmg_dealt": 49777225,
+   "streak_h": 0.5,
+   "dmg_dealt": 49912433,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     16936
+     20638
     ],
     [
      "Zombie",
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 62.0,
-    "frontier": 67.2,
+    "survival": 57.4,
+    "frontier": 67.4,
     "craft": 100.0
    },
-   "score": 49.1,
+   "score": 48.2,
    "ranked": true,
    "rank_pos": 2
   },
@@ -166,12 +166,12 @@
    ],
    "parts": {
     "threat": 17.6,
-    "conquest": 16.9,
+    "conquest": 15.3,
     "survival": 61.9,
     "frontier": 48.9,
     "craft": 56.6
    },
-   "score": 31.4,
+   "score": 30.9,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,12 +219,12 @@
    ],
    "parts": {
     "threat": 3.7,
-    "conquest": 1.7,
+    "conquest": 1.6,
     "survival": 4.5,
     "frontier": 40.0,
     "craft": 9.3
    },
-   "score": 7.3,
+   "score": 7.2,
    "ranked": true,
    "rank_pos": 4
   },
