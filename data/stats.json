@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T12:20:11Z",
+ "generated": "2026-10-01T13:20:13Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,9 +10,9 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 214.4,
-  "mob_kills": 54338,
-  "boss_kills": 83,
+  "hours": 215.4,
+  "mob_kills": 55390,
+  "boss_kills": 84,
   "deaths": 587
  },
  "players": [
@@ -70,6 +70,59 @@
    "rank_pos": 1
   },
   {
+   "name": "SkizoroZ",
+   "hours": 50.93,
+   "level": 90,
+   "dims": 1,
+   "rank": 5,
+   "origin": "Hobrosi Dark Mage",
+   "blessing": "Chiron Blessing",
+   "clazz": "Cleric",
+   "deaths": 56,
+   "mob_kills": 5784,
+   "boss_kills": 13,
+   "conquest_raw": 6946,
+   "distance_km": 199.83,
+   "mined": 16852,
+   "crafted": 4307,
+   "streak_h": 1.9,
+   "dmg_dealt": 429612,
+   "dmg_taken_overflow": false,
+   "top_killer": "Ancient Remnant",
+   "top_mobs": [
+    [
+     "Zombie",
+     3070
+    ],
+    [
+     "Silverfish",
+     655
+    ],
+    [
+     "Enderman",
+     462
+    ],
+    [
+     "Skeleton",
+     264
+    ],
+    [
+     "Magma Cube",
+     177
+    ]
+   ],
+   "parts": {
+    "threat": 83.3,
+    "conquest": 15.5,
+    "survival": 72.4,
+    "frontier": 49.2,
+    "craft": 56.7
+   },
+   "score": 59.4,
+   "ranked": true,
+   "rank_pos": 2
+  },
+  {
    "name": "Raiduz",
    "hours": 99.24,
    "level": 0,
@@ -119,59 +172,6 @@
     "craft": 100.0
    },
    "score": 53.6,
-   "ranked": true,
-   "rank_pos": 2
-  },
-  {
-   "name": "SkizoroZ",
-   "hours": 49.93,
-   "level": 19,
-   "dims": 1,
-   "rank": 5,
-   "origin": "Hobrosi Dark Mage",
-   "blessing": "Chiron Blessing",
-   "clazz": "Cleric",
-   "deaths": 56,
-   "mob_kills": 4732,
-   "boss_kills": 12,
-   "conquest_raw": 5820,
-   "distance_km": 196.42,
-   "mined": 16836,
-   "crafted": 4283,
-   "streak_h": 0.9,
-   "dmg_dealt": 420512,
-   "dmg_taken_overflow": false,
-   "top_killer": "Ancient Remnant",
-   "top_mobs": [
-    [
-     "Zombie",
-     2044
-    ],
-    [
-     "Silverfish",
-     655
-    ],
-    [
-     "Enderman",
-     462
-    ],
-    [
-     "Skeleton",
-     264
-    ],
-    [
-     "Magma Cube",
-     177
-    ]
-   ],
-   "parts": {
-    "threat": 17.6,
-    "conquest": 13.0,
-    "survival": 65.6,
-    "frontier": 48.9,
-    "craft": 56.5
-   },
-   "score": 31.1,
    "ranked": true,
    "rank_pos": 3
   },
