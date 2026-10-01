@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T00:19:58Z",
+ "generated": "2026-10-01T07:20:02Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,7 +10,7 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 210.5,
+  "hours": 211.1,
   "mob_kills": 51799,
   "boss_kills": 83,
   "deaths": 587
@@ -71,7 +71,7 @@
   },
   {
    "name": "Raiduz",
-   "hours": 96.0,
+   "hours": 96.56,
    "level": 0,
    "dims": 1,
    "rank": 5,
@@ -82,10 +82,10 @@
    "mob_kills": 37767,
    "boss_kills": 64,
    "conquest_raw": 42328,
-   "distance_km": 390.95,
-   "mined": 26490,
+   "distance_km": 390.98,
+   "mined": 26502,
    "crafted": 8639,
-   "streak_h": 1.4,
+   "streak_h": 1.9,
    "dmg_dealt": 58740247,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 64.3,
+    "survival": 68.2,
     "frontier": 67.6,
     "craft": 100.0
    },
-   "score": 49.6,
+   "score": 50.4,
    "ranked": true,
    "rank_pos": 2
   },
