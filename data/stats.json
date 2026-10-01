@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T23:19:57Z",
+ "generated": "2026-10-01T00:19:58Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,9 +10,9 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 210.1,
-  "mob_kills": 50529,
-  "boss_kills": 81,
+  "hours": 210.5,
+  "mob_kills": 51799,
+  "boss_kills": 83,
   "deaths": 587
  },
  "players": [
@@ -60,18 +60,18 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 22.6,
+    "conquest": 21.8,
     "survival": 53.3,
     "frontier": 92.9,
     "craft": 82.2
    },
-   "score": 69.7,
+   "score": 69.5,
    "ranked": true,
    "rank_pos": 1
   },
   {
    "name": "Raiduz",
-   "hours": 95.54,
+   "hours": 96.0,
    "level": 0,
    "dims": 1,
    "rank": 5,
@@ -79,20 +79,20 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 170,
-   "mob_kills": 36497,
-   "boss_kills": 62,
-   "conquest_raw": 40810,
-   "distance_km": 390.21,
-   "mined": 26482,
+   "mob_kills": 37767,
+   "boss_kills": 64,
+   "conquest_raw": 42328,
+   "distance_km": 390.95,
+   "mined": 26490,
    "crafted": 8639,
-   "streak_h": 0.9,
-   "dmg_dealt": 55982438,
+   "streak_h": 1.4,
+   "dmg_dealt": 58740247,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     23307
+     24561
     ],
     [
      "Zombie",
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 60.5,
+    "survival": 64.3,
     "frontier": 67.6,
     "craft": 100.0
    },
-   "score": 48.9,
+   "score": 49.6,
    "ranked": true,
    "rank_pos": 2
   },
@@ -166,12 +166,12 @@
    ],
    "parts": {
     "threat": 17.6,
-    "conquest": 14.3,
+    "conquest": 13.7,
     "survival": 61.9,
     "frontier": 48.9,
-    "craft": 56.6
+    "craft": 56.5
    },
-   "score": 30.7,
+   "score": 30.6,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,7 +219,7 @@
    ],
    "parts": {
     "threat": 3.7,
-    "conquest": 1.5,
+    "conquest": 1.4,
     "survival": 4.5,
     "frontier": 40.0,
     "craft": 9.3
