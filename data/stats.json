@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T22:20:34Z",
+ "generated": "2026-10-01T23:20:35Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,9 +10,9 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 223.7,
-  "mob_kills": 66944,
-  "boss_kills": 88,
+  "hours": 224.7,
+  "mob_kills": 71621,
+  "boss_kills": 89,
   "deaths": 594
  },
  "players": [
@@ -60,12 +60,12 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 14.0,
+    "conquest": 12.9,
     "survival": 91.1,
     "frontier": 79.8,
     "craft": 66.2
    },
-   "score": 73.0,
+   "score": 72.7,
    "ranked": true,
    "rank_pos": 1
   },
@@ -113,18 +113,18 @@
    ],
    "parts": {
     "threat": 90.8,
-    "conquest": 16.5,
+    "conquest": 15.2,
     "survival": 38.3,
     "frontier": 92.9,
     "craft": 82.1
    },
-   "score": 61.5,
+   "score": 61.2,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "Raiduz",
-   "hours": 101.43,
+   "hours": 102.43,
    "level": 0,
    "dims": 0,
    "rank": 5,
@@ -132,20 +132,20 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 177,
-   "mob_kills": 51232,
-   "boss_kills": 65,
-   "conquest_raw": 55917,
-   "distance_km": 395.0,
-   "mined": 26529,
+   "mob_kills": 55909,
+   "boss_kills": 66,
+   "conquest_raw": 60718,
+   "distance_km": 395.91,
+   "mined": 26530,
    "crafted": 8639,
-   "streak_h": 0.1,
-   "dmg_dealt": 60843643,
+   "streak_h": 1.1,
+   "dmg_dealt": 62311862,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     38012
+     42679
     ],
     [
      "Zombie",
@@ -167,11 +167,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 54.5,
-    "frontier": 38.0,
+    "survival": 58.4,
+    "frontier": 38.1,
     "craft": 100.0
    },
-   "score": 44.7,
+   "score": 45.5,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,7 +219,7 @@
    ],
    "parts": {
     "threat": 3.4,
-    "conquest": 1.1,
+    "conquest": 1.0,
     "survival": 2.2,
     "frontier": 40.0,
     "craft": 9.3
