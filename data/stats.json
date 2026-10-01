@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T14:20:15Z",
+ "generated": "2026-10-01T15:20:17Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,30 +10,30 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 216.3,
-  "mob_kills": 55793,
+  "hours": 217.3,
+  "mob_kills": 55973,
   "boss_kills": 84,
   "deaths": 587
  },
  "players": [
   {
    "name": "SkizoroZ",
-   "hours": 51.87,
-   "level": 111,
-   "dims": 1,
+   "hours": 52.87,
+   "level": 117,
+   "dims": 2,
    "rank": 5,
    "origin": "Hobrosi Dark Mage",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 56,
-   "mob_kills": 6187,
+   "mob_kills": 6367,
    "boss_kills": 13,
-   "conquest_raw": 7349,
-   "distance_km": 200.32,
-   "mined": 16855,
-   "crafted": 4355,
-   "streak_h": 2.8,
-   "dmg_dealt": 432169,
+   "conquest_raw": 7529,
+   "distance_km": 202.22,
+   "mined": 16869,
+   "crafted": 5062,
+   "streak_h": 3.8,
+   "dmg_dealt": 439615,
    "dmg_taken_overflow": false,
    "top_killer": "Ancient Remnant",
    "top_mobs": [
@@ -54,18 +54,18 @@
      264
     ],
     [
-     "Magma Cube",
-     177
+     "Wither Skeleton",
+     184
     ]
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 16.4,
-    "survival": 78.4,
-    "frontier": 49.3,
-    "craft": 57.0
+    "conquest": 16.8,
+    "survival": 85.1,
+    "frontier": 79.5,
+    "craft": 61.1
    },
-   "score": 67.6,
+   "score": 72.2,
    "ranked": true,
    "rank_pos": 1
   },
@@ -112,13 +112,13 @@
     ]
    ],
    "parts": {
-    "threat": 97.3,
+    "threat": 92.3,
     "conquest": 20.6,
     "survival": 49.4,
     "frontier": 92.9,
     "craft": 82.2
    },
-   "score": 67.3,
+   "score": 65.3,
    "ranked": true,
    "rank_pos": 2
   },
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 3.6,
+    "threat": 3.4,
     "conquest": 1.3,
     "survival": 3.9,
     "frontier": 40.0,
     "craft": 9.3
    },
-   "score": 7.0,
+   "score": 6.9,
    "ranked": true,
    "rank_pos": 4
   },
@@ -271,13 +271,13 @@
     ]
    ],
    "parts": {
-    "threat": 3.6,
+    "threat": 3.4,
     "conquest": 0.1,
     "survival": 18.5,
     "frontier": 1.0,
     "craft": 2.1
    },
-   "score": 5.4,
+   "score": 5.3,
    "ranked": true,
    "rank_pos": 5
   },
