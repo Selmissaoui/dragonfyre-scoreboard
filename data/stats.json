@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T13:20:47Z",
+ "generated": "2026-10-02T14:20:48Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,7 +10,7 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 226.8,
+  "hours": 227.1,
   "mob_kills": 71639,
   "boss_kills": 90,
   "deaths": 595
@@ -18,7 +18,7 @@
  "players": [
   {
    "name": "SkizoroZ",
-   "hours": 57.32,
+   "hours": 57.61,
    "level": 119,
    "dims": 2,
    "rank": 5,
@@ -32,7 +32,7 @@
    "distance_km": 205.93,
    "mined": 17745,
    "crafted": 5655,
-   "streak_h": 8.3,
+   "streak_h": 8.5,
    "dmg_dealt": 469145,
    "dmg_taken_overflow": false,
    "top_killer": "Ancient Remnant",
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 90.8,
     "conquest": 15.2,
-    "survival": 37.7,
+    "survival": 37.4,
     "frontier": 92.9,
     "craft": 81.5
    },
-   "score": 61.0,
+   "score": 60.9,
    "ranked": true,
    "rank_pos": 2
   },
@@ -171,7 +171,7 @@
     "frontier": 69.5,
     "craft": 100.0
    },
-   "score": 48.1,
+   "score": 48.0,
    "ranked": true,
    "rank_pos": 3
   },
@@ -220,7 +220,7 @@
    "parts": {
     "threat": 3.4,
     "conquest": 1.0,
-    "survival": 2.2,
+    "survival": 2.1,
     "frontier": 40.0,
     "craft": 9.2
    },
@@ -318,7 +318,7 @@
     "frontier": 0.4,
     "craft": 3.8
    },
-   "score": 12.3,
+   "score": 12.2,
    "ranked": false,
    "rank_pos": null
   }
