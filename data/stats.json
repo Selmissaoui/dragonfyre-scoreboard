@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T08:21:01Z",
+ "generated": "2026-10-03T09:21:03Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 228.6,
-  "mob_kills": 72614,
-  "boss_kills": 91,
-  "deaths": 601
+  "hours": 229.7,
+  "mob_kills": 74671,
+  "boss_kills": 92,
+  "deaths": 602
  },
  "players": [
   {
@@ -59,40 +59,93 @@
     ]
    ],
    "parts": {
-    "threat": 100.0,
-    "conquest": 12.7,
+    "threat": 79.3,
+    "conquest": 12.3,
     "survival": 91.1,
     "frontier": 79.8,
-    "craft": 65.7
+    "craft": 65.6
    },
-   "score": 72.7,
+   "score": 64.3,
    "ranked": true,
    "rank_pos": 1
   },
   {
-   "name": "Raiduz",
-   "hours": 105.66,
-   "level": 0,
+   "name": "Flowko",
+   "hours": 51.66,
+   "level": 150,
    "dims": 0,
-   "rank": 2,
-   "origin": "Birdofparadise",
-   "blessing": "Chiron Blessing",
+   "rank": 5,
+   "origin": "Pyrios Pheonix Knight",
+   "blessing": "Lokis Blessing",
    "clazz": "Cleric",
-   "deaths": 183,
-   "mob_kills": 56875,
-   "boss_kills": 67,
-   "conquest_raw": 61833,
-   "distance_km": 413.34,
-   "mined": 26878,
-   "crafted": 8660,
-   "streak_h": 0.0,
-   "dmg_dealt": 62837398,
+   "deaths": 262,
+   "mob_kills": 8728,
+   "boss_kills": 8,
+   "conquest_raw": 9520,
+   "distance_km": 344.0,
+   "mined": 22581,
+   "crafted": 6850,
+   "streak_h": 0.6,
+   "dmg_dealt": 12457917,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     43604
+     6309
+    ],
+    [
+     "Zombie",
+     1137
+    ],
+    [
+     "Skeleton",
+     304
+    ],
+    [
+     "Sheep",
+     80
+    ],
+    [
+     "Wither Skeleton",
+     67
+    ]
+   ],
+   "parts": {
+    "threat": 100.0,
+    "conquest": 14.9,
+    "survival": 25.8,
+    "frontier": 33.1,
+    "craft": 81.5
+   },
+   "score": 56.3,
+   "ranked": true,
+   "rank_pos": 2
+  },
+  {
+   "name": "Raiduz",
+   "hours": 106.19,
+   "level": 0,
+   "dims": 0,
+   "rank": 5,
+   "origin": "Birdofparadise",
+   "blessing": "Chiron Blessing",
+   "clazz": "Cleric",
+   "deaths": 184,
+   "mob_kills": 58923,
+   "boss_kills": 67,
+   "conquest_raw": 63881,
+   "distance_km": 414.77,
+   "mined": 26878,
+   "crafted": 8671,
+   "streak_h": 0.0,
+   "dmg_dealt": 63117673,
+   "dmg_taken_overflow": true,
+   "top_killer": "Silverfish",
+   "top_mobs": [
+    [
+     "Silverfish",
+     45649
     ],
     [
      "Zombie",
@@ -115,63 +168,10 @@
     "threat": 0.0,
     "conquest": 100.0,
     "survival": 54.2,
-    "frontier": 39.8,
+    "frontier": 39.9,
     "craft": 100.0
    },
    "score": 44.8,
-   "ranked": true,
-   "rank_pos": 2
-  },
-  {
-   "name": "Flowko",
-   "hours": 51.07,
-   "level": 54,
-   "dims": 0,
-   "rank": 4,
-   "origin": "Pyrios Pheonix Knight",
-   "blessing": "Lokis Blessing",
-   "clazz": "Cleric",
-   "deaths": 262,
-   "mob_kills": 8719,
-   "boss_kills": 7,
-   "conquest_raw": 9387,
-   "distance_km": 341.65,
-   "mined": 22563,
-   "crafted": 6846,
-   "streak_h": 0.0,
-   "dmg_dealt": 11153009,
-   "dmg_taken_overflow": true,
-   "top_killer": "Silverfish",
-   "top_mobs": [
-    [
-     "Silverfish",
-     6307
-    ],
-    [
-     "Zombie",
-     1137
-    ],
-    [
-     "Skeleton",
-     304
-    ],
-    [
-     "Sheep",
-     80
-    ],
-    [
-     "Wither Skeleton",
-     67
-    ]
-   ],
-   "parts": {
-    "threat": 45.4,
-    "conquest": 15.2,
-    "survival": 23.2,
-    "frontier": 32.9,
-    "craft": 81.5
-   },
-   "score": 33.9,
    "ranked": true,
    "rank_pos": 3
   },
@@ -218,13 +218,13 @@
     ]
    ],
    "parts": {
-    "threat": 3.4,
-    "conquest": 1.0,
+    "threat": 2.7,
+    "conquest": 0.9,
     "survival": 2.1,
     "frontier": 40.0,
     "craft": 9.2
    },
-   "score": 6.5,
+   "score": 6.2,
    "ranked": true,
    "rank_pos": 4
   },
@@ -271,13 +271,13 @@
     ]
    ],
    "parts": {
-    "threat": 3.4,
+    "threat": 2.7,
     "conquest": 0.1,
     "survival": 16.7,
     "frontier": 1.0,
     "craft": 2.0
    },
-   "score": 4.9,
+   "score": 4.6,
    "ranked": true,
    "rank_pos": 5
   },
