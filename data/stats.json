@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T10:21:05Z",
+ "generated": "2026-10-04T09:21:13Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -124,7 +124,7 @@
   },
   {
    "name": "Raiduz",
-   "hours": 107.19,
+   "hours": 107.21,
    "level": 0,
    "dims": 0,
    "rank": 5,
@@ -135,7 +135,7 @@
    "mob_kills": 60546,
    "boss_kills": 68,
    "conquest_raw": 65528,
-   "distance_km": 420.02,
+   "distance_km": 420.04,
    "mined": 26885,
    "crafted": 8683,
    "streak_h": 0.2,
