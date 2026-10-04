@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T10:21:14Z",
+ "generated": "2026-10-04T11:21:16Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 231.5,
-  "mob_kills": 79231,
-  "boss_kills": 94,
-  "deaths": 620
+  "hours": 231.7,
+  "mob_kills": 79258,
+  "boss_kills": 96,
+  "deaths": 621
  },
  "players": [
   {
@@ -60,12 +60,12 @@
    ],
    "parts": {
     "threat": 79.3,
-    "conquest": 11.5,
+    "conquest": 11.4,
     "survival": 91.1,
-    "frontier": 79.5,
+    "frontier": 79.4,
     "craft": 65.6
    },
-   "score": 64.1,
+   "score": 64.0,
    "ranked": true,
    "rank_pos": 1
   },
@@ -115,7 +115,7 @@
     "threat": 100.0,
     "conquest": 13.9,
     "survival": 25.8,
-    "frontier": 32.6,
+    "frontier": 32.4,
     "craft": 81.4
    },
    "score": 56.0,
@@ -124,22 +124,22 @@
   },
   {
    "name": "Raiduz",
-   "hours": 107.98,
+   "hours": 108.15,
    "level": 0,
    "dims": 0,
    "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 202,
-   "mob_kills": 63483,
-   "boss_kills": 69,
-   "conquest_raw": 68489,
-   "distance_km": 422.54,
+   "deaths": 203,
+   "mob_kills": 63510,
+   "boss_kills": 71,
+   "conquest_raw": 68564,
+   "distance_km": 424.19,
    "mined": 26888,
    "crafted": 8683,
-   "streak_h": 0.4,
-   "dmg_dealt": 63538418,
+   "streak_h": 0.1,
+   "dmg_dealt": 63732918,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -149,7 +149,7 @@
     ],
     [
      "Zombie",
-     6030
+     6049
     ],
     [
      "Skeleton",
@@ -167,11 +167,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 54.3,
+    "survival": 53.2,
     "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 44.9,
+   "score": 44.6,
    "ranked": true,
    "rank_pos": 3
   },
@@ -221,7 +221,7 @@
     "threat": 2.7,
     "conquest": 0.9,
     "survival": 2.1,
-    "frontier": 39.3,
+    "frontier": 39.2,
     "craft": 9.2
    },
    "score": 6.1,
