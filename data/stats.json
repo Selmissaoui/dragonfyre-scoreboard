@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T11:21:16Z",
+ "generated": "2026-10-05T13:21:24Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,7 +10,7 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 231.7,
+  "hours": 231.8,
   "mob_kills": 79258,
   "boss_kills": 96,
   "deaths": 621
@@ -71,7 +71,7 @@
   },
   {
    "name": "Flowko",
-   "hours": 51.66,
+   "hours": 51.77,
    "level": 150,
    "dims": 0,
    "rank": 5,
@@ -82,10 +82,10 @@
    "mob_kills": 8728,
    "boss_kills": 8,
    "conquest_raw": 9520,
-   "distance_km": 344.0,
+   "distance_km": 344.2,
    "mined": 22581,
    "crafted": 6850,
-   "streak_h": 0.6,
+   "streak_h": 0.7,
    "dmg_dealt": 12457917,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -114,8 +114,8 @@
    "parts": {
     "threat": 100.0,
     "conquest": 13.9,
-    "survival": 25.8,
-    "frontier": 32.4,
+    "survival": 26.3,
+    "frontier": 32.5,
     "craft": 81.4
    },
    "score": 56.0,
