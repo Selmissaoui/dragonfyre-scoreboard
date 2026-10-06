@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T16:21:47Z",
+ "generated": "2026-10-06T17:21:49Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 239.5,
-  "mob_kills": 99737,
+  "hours": 241.4,
+  "mob_kills": 102103,
   "boss_kills": 97,
-  "deaths": 631
+  "deaths": 632
  },
  "players": [
   {
    "name": "SkizoroZ",
-   "hours": 57.98,
+   "hours": 58.95,
    "level": 119,
    "dims": 2,
    "rank": 5,
@@ -26,20 +26,20 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 56,
-   "mob_kills": 6411,
+   "mob_kills": 6437,
    "boss_kills": 16,
-   "conquest_raw": 7845,
-   "distance_km": 206.19,
-   "mined": 17745,
-   "crafted": 5655,
-   "streak_h": 8.9,
-   "dmg_dealt": 469145,
+   "conquest_raw": 7871,
+   "distance_km": 207.6,
+   "mined": 17887,
+   "crafted": 6007,
+   "streak_h": 9.9,
+   "dmg_dealt": 470345,
    "dmg_taken_overflow": false,
    "top_killer": "Ancient Remnant",
    "top_mobs": [
     [
      "Zombie",
-     3417
+     3419
     ],
     [
      "Silverfish",
@@ -60,12 +60,12 @@
    ],
    "parts": {
     "threat": 79.3,
-    "conquest": 8.8,
-    "survival": 91.2,
-    "frontier": 78.9,
-    "craft": 61.8
+    "conquest": 8.6,
+    "survival": 91.3,
+    "frontier": 79.0,
+    "craft": 64.0
    },
-   "score": 63.2,
+   "score": 63.3,
    "ranked": true,
    "rank_pos": 1
   },
@@ -113,39 +113,39 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 10.7,
-    "survival": 26.2,
-    "frontier": 31.6,
+    "conquest": 10.4,
+    "survival": 25.9,
+    "frontier": 31.5,
     "craft": 76.8
    },
-   "score": 54.9,
+   "score": 54.8,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "Raiduz",
-   "hours": 115.48,
+   "hours": 116.48,
    "level": 0,
-   "dims": 1,
-   "rank": 5,
+   "dims": 0,
+   "rank": 4,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 213,
-   "mob_kills": 83988,
+   "deaths": 214,
+   "mob_kills": 86328,
    "boss_kills": 72,
-   "conquest_raw": 89141,
-   "distance_km": 436.24,
-   "mined": 28796,
+   "conquest_raw": 91481,
+   "distance_km": 437.05,
+   "mined": 28797,
    "crafted": 9116,
-   "streak_h": 1.0,
+   "streak_h": 0.2,
    "dmg_dealt": 64086554,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     70258
+     72598
     ],
     [
      "Zombie",
@@ -167,11 +167,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 56.5,
-    "frontier": 70.0,
+    "survival": 53.8,
+    "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 48.3,
+   "score": 44.8,
    "ranked": true,
    "rank_pos": 3
   },
@@ -220,11 +220,11 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.7,
-    "survival": 2.0,
-    "frontier": 38.1,
+    "survival": 1.8,
+    "frontier": 38.0,
     "craft": 8.7
    },
-   "score": 5.9,
+   "score": 5.8,
    "ranked": true,
    "rank_pos": 4
   },
@@ -273,11 +273,11 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.0,
-    "survival": 16.6,
+    "survival": 16.4,
     "frontier": 1.0,
     "craft": 1.9
    },
-   "score": 4.6,
+   "score": 4.5,
    "ranked": true,
    "rank_pos": 5
   },
