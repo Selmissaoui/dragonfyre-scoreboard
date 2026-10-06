@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T18:21:51Z",
+ "generated": "2026-10-06T19:21:53Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -124,7 +124,7 @@
   },
   {
    "name": "Raiduz",
-   "hours": 117.48,
+   "hours": 117.49,
    "level": 0,
    "dims": 1,
    "rank": 5,
