@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T09:21:39Z",
+ "generated": "2026-10-06T10:21:41Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,10 +10,10 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 236.2,
-  "mob_kills": 88127,
+  "hours": 237.0,
+  "mob_kills": 92169,
   "boss_kills": 97,
-  "deaths": 629
+  "deaths": 630
  },
  "players": [
   {
@@ -60,12 +60,12 @@
    ],
    "parts": {
     "threat": 79.3,
-    "conquest": 10.1,
+    "conquest": 9.6,
     "survival": 91.1,
     "frontier": 78.9,
     "craft": 61.8
    },
-   "score": 63.5,
+   "score": 63.3,
    "ranked": true,
    "rank_pos": 1
   },
@@ -113,39 +113,39 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 12.3,
+    "conquest": 11.7,
     "survival": 26.3,
-    "frontier": 31.7,
+    "frontier": 31.6,
     "craft": 76.8
    },
-   "score": 55.3,
+   "score": 55.2,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "Raiduz",
-   "hours": 112.54,
+   "hours": 113.38,
    "level": 0,
-   "dims": 1,
+   "dims": 0,
    "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
-   "deaths": 211,
-   "mob_kills": 72379,
+   "deaths": 212,
+   "mob_kills": 76421,
    "boss_kills": 72,
-   "conquest_raw": 77532,
-   "distance_km": 434.76,
+   "conquest_raw": 81574,
+   "distance_km": 435.18,
    "mined": 28796,
-   "crafted": 9114,
-   "streak_h": 0.3,
+   "crafted": 9116,
+   "streak_h": 0.6,
    "dmg_dealt": 64082974,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
     [
      "Silverfish",
-     58658
+     62700
     ],
     [
      "Zombie",
@@ -167,11 +167,11 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 54.0,
-    "frontier": 70.0,
+    "survival": 55.1,
+    "frontier": 40.0,
     "craft": 100.0
    },
-   "score": 47.8,
+   "score": 45.0,
    "ranked": true,
    "rank_pos": 3
   },
@@ -219,7 +219,7 @@
    ],
    "parts": {
     "threat": 2.7,
-    "conquest": 0.8,
+    "conquest": 0.7,
     "survival": 2.1,
     "frontier": 38.2,
     "craft": 8.7
