@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T22:23:31Z",
+ "generated": "2026-10-07T23:23:32Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,7 +10,7 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 252.7,
+  "hours": 253.4,
   "mob_kills": 124398,
   "boss_kills": 126,
   "deaths": 642
@@ -18,7 +18,7 @@
  "players": [
   {
    "name": "Raiduz",
-   "hours": 124.31,
+   "hours": 124.98,
    "level": 0,
    "dims": 2,
    "rank": 5,
@@ -29,10 +29,10 @@
    "mob_kills": 108294,
    "boss_kills": 80,
    "conquest_raw": 113964,
-   "distance_km": 447.13,
+   "distance_km": 447.49,
    "mined": 28808,
-   "crafted": 9156,
-   "streak_h": 5.2,
+   "crafted": 9232,
+   "streak_h": 5.8,
    "dmg_dealt": 100936381,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -61,7 +61,7 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 84.1,
+    "survival": 84.2,
     "frontier": 100.0,
     "craft": 100.0
    },
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 100.0,
     "conquest": 8.4,
-    "survival": 27.9,
+    "survival": 27.4,
     "frontier": 30.8,
-    "craft": 76.6
+    "craft": 76.3
    },
-   "score": 54.6,
+   "score": 54.5,
    "ranked": true,
    "rank_pos": 2
   },
@@ -167,9 +167,9 @@
    "parts": {
     "threat": 4.0,
     "conquest": 9.2,
-    "survival": 61.4,
+    "survival": 61.3,
     "frontier": 19.2,
-    "craft": 68.9
+    "craft": 68.6
    },
    "score": 21.5,
    "ranked": true,
@@ -220,9 +220,9 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.5,
-    "survival": 3.5,
-    "frontier": 37.2,
-    "craft": 8.7
+    "survival": 3.1,
+    "frontier": 37.1,
+    "craft": 8.6
    },
    "score": 6.0,
    "ranked": true,
@@ -273,11 +273,11 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.0,
-    "survival": 18.0,
+    "survival": 17.7,
     "frontier": 1.0,
     "craft": 1.9
    },
-   "score": 4.9,
+   "score": 4.8,
    "ranked": true,
    "rank_pos": 5
   },
