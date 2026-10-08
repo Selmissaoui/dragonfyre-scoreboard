@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:23:42Z",
+ "generated": "2026-10-08T12:23:44Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,30 +10,30 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 256.2,
-  "mob_kills": 130396,
-  "boss_kills": 127,
+  "hours": 256.9,
+  "mob_kills": 130491,
+  "boss_kills": 132,
   "deaths": 642
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 127.77,
+   "hours": 128.54,
    "level": 0,
-   "dims": 2,
+   "dims": 3,
    "rank": 5,
    "origin": "Birdofparadise",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 217,
-   "mob_kills": 114292,
-   "boss_kills": 81,
-   "conquest_raw": 120086,
-   "distance_km": 448.82,
-   "mined": 28808,
-   "crafted": 9232,
-   "streak_h": 8.6,
-   "dmg_dealt": 102310141,
+   "mob_kills": 114387,
+   "boss_kills": 86,
+   "conquest_raw": 120301,
+   "distance_km": 454.05,
+   "mined": 28813,
+   "crafted": 9235,
+   "streak_h": 9.4,
+   "dmg_dealt": 104711089,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -61,7 +61,7 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 84.5,
+    "survival": 84.6,
     "frontier": 100.0,
     "craft": 100.0
    },
@@ -114,11 +114,11 @@
    "parts": {
     "threat": 100.0,
     "conquest": 7.9,
-    "survival": 26.3,
-    "frontier": 30.7,
+    "survival": 26.1,
+    "frontier": 30.3,
     "craft": 76.3
    },
-   "score": 54.1,
+   "score": 54.0,
    "ranked": true,
    "rank_pos": 2
   },
@@ -168,10 +168,10 @@
     "threat": 4.0,
     "conquest": 8.8,
     "survival": 61.1,
-    "frontier": 19.1,
+    "frontier": 18.9,
     "craft": 68.6
    },
-   "score": 21.4,
+   "score": 21.3,
    "ranked": true,
    "rank_pos": 3
   },
@@ -220,8 +220,8 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.5,
-    "survival": 2.1,
-    "frontier": 37.0,
+    "survival": 1.9,
+    "frontier": 36.6,
     "craft": 8.6
    },
    "score": 5.7,
@@ -273,8 +273,8 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.0,
-    "survival": 16.7,
-    "frontier": 1.0,
+    "survival": 16.5,
+    "frontier": 0.9,
     "craft": 1.9
    },
    "score": 4.6,
