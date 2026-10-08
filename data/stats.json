@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T22:24:00Z",
+ "generated": "2026-10-08T23:24:02Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 264.4,
-  "mob_kills": 130997,
+  "hours": 264.7,
+  "mob_kills": 131048,
   "boss_kills": 159,
   "deaths": 642
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 131.03,
+   "hours": 131.31,
    "level": 0,
    "dims": 3,
    "rank": 5,
@@ -26,13 +26,13 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 217,
-   "mob_kills": 114831,
+   "mob_kills": 114882,
    "boss_kills": 111,
-   "conquest_raw": 123495,
-   "distance_km": 467.12,
+   "conquest_raw": 123546,
+   "distance_km": 467.85,
    "mined": 29858,
    "crafted": 10690,
-   "streak_h": 11.9,
+   "streak_h": 12.2,
    "dmg_dealt": 106233102,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
@@ -50,12 +50,12 @@
      4049
     ],
     [
-     "End Slime",
-     466
+     "Slime",
+     483
     ],
     [
-     "Slime",
-     432
+     "End Slime",
+     466
     ]
    ],
    "parts": {
@@ -114,8 +114,8 @@
    "parts": {
     "threat": 100.0,
     "conquest": 7.7,
-    "survival": 25.6,
-    "frontier": 29.5,
+    "survival": 25.5,
+    "frontier": 29.4,
     "craft": 69.9
    },
    "score": 53.5,
@@ -167,11 +167,11 @@
    "parts": {
     "threat": 8.7,
     "conquest": 8.8,
-    "survival": 74.3,
-    "frontier": 79.2,
+    "survival": 74.0,
+    "frontier": 79.1,
     "craft": 68.8
    },
-   "score": 31.9,
+   "score": 31.8,
    "ranked": true,
    "rank_pos": 3
   },
@@ -221,7 +221,7 @@
     "threat": 2.7,
     "conquest": 0.5,
     "survival": 1.5,
-    "frontier": 35.6,
+    "frontier": 35.5,
     "craft": 7.8
    },
    "score": 5.4,
@@ -273,7 +273,7 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.0,
-    "survival": 16.1,
+    "survival": 16.0,
     "frontier": 0.9,
     "craft": 1.7
    },
