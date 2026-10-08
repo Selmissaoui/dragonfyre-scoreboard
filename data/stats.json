@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T16:23:48Z",
+ "generated": "2026-10-08T17:23:50Z",
  "weights": {
   "threat": 0.4,
   "conquest": 0.25,
@@ -10,15 +10,15 @@
  "min_ranked_hours": 2.0,
  "totals": {
   "players": 6,
-  "hours": 259.8,
-  "mob_kills": 130658,
-  "boss_kills": 136,
+  "hours": 261.0,
+  "mob_kills": 130743,
+  "boss_kills": 159,
   "deaths": 642
  },
  "players": [
   {
    "name": "Raiduz",
-   "hours": 129.93,
+   "hours": 130.93,
    "level": 0,
    "dims": 3,
    "rank": 5,
@@ -26,14 +26,14 @@
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 217,
-   "mob_kills": 114533,
-   "boss_kills": 90,
-   "conquest_raw": 120593,
-   "distance_km": 461.19,
-   "mined": 28977,
-   "crafted": 10406,
-   "streak_h": 10.8,
-   "dmg_dealt": 104727767,
+   "mob_kills": 114601,
+   "boss_kills": 111,
+   "conquest_raw": 123265,
+   "distance_km": 465.87,
+   "mined": 29853,
+   "crafted": 10690,
+   "streak_h": 11.8,
+   "dmg_dealt": 106232446,
    "dmg_taken_overflow": true,
    "top_killer": "Silverfish",
    "top_mobs": [
@@ -61,7 +61,7 @@
    "parts": {
     "threat": 0.0,
     "conquest": 100.0,
-    "survival": 84.8,
+    "survival": 84.9,
     "frontier": 100.0,
     "craft": 100.0
    },
@@ -113,33 +113,33 @@
    ],
    "parts": {
     "threat": 100.0,
-    "conquest": 7.9,
-    "survival": 25.8,
-    "frontier": 29.9,
-    "craft": 71.9
+    "conquest": 7.7,
+    "survival": 25.6,
+    "frontier": 29.6,
+    "craft": 69.9
    },
-   "score": 53.7,
+   "score": 53.5,
    "ranked": true,
    "rank_pos": 2
   },
   {
    "name": "SkizoroZ",
-   "hours": 63.84,
-   "level": 7,
+   "hours": 64.02,
+   "level": 11,
    "dims": 1,
    "rank": 5,
    "origin": "Hobrosi Dark Mage",
    "blessing": "Chiron Blessing",
    "clazz": "Cleric",
    "deaths": 63,
-   "mob_kills": 6787,
-   "boss_kills": 37,
-   "conquest_raw": 10550,
-   "distance_km": 216.95,
+   "mob_kills": 6804,
+   "boss_kills": 39,
+   "conquest_raw": 10815,
+   "distance_km": 217.61,
    "mined": 19319,
-   "crafted": 7770,
-   "streak_h": 1.5,
-   "dmg_dealt": 471215,
+   "crafted": 7782,
+   "streak_h": 1.7,
+   "dmg_dealt": 492779,
    "dmg_taken_overflow": false,
    "top_killer": "Ancient Remnant",
    "top_mobs": [
@@ -165,13 +165,13 @@
     ]
    ],
    "parts": {
-    "threat": 4.7,
-    "conquest": 8.7,
-    "survival": 65.2,
-    "frontier": 38.8,
-    "craft": 70.7
+    "threat": 7.3,
+    "conquest": 8.8,
+    "survival": 65.3,
+    "frontier": 38.7,
+    "craft": 68.8
    },
-   "score": 24.5,
+   "score": 25.5,
    "ranked": true,
    "rank_pos": 3
   },
@@ -220,9 +220,9 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.5,
-    "survival": 1.7,
-    "frontier": 36.0,
-    "craft": 8.1
+    "survival": 1.5,
+    "frontier": 35.7,
+    "craft": 7.8
    },
    "score": 5.5,
    "ranked": true,
@@ -273,9 +273,9 @@
    "parts": {
     "threat": 2.7,
     "conquest": 0.0,
-    "survival": 16.2,
+    "survival": 16.1,
     "frontier": 0.9,
-    "craft": 1.8
+    "craft": 1.7
    },
    "score": 4.5,
    "ranked": true,
@@ -316,7 +316,7 @@
     "conquest": 0.0,
     "survival": 60.0,
     "frontier": 0.3,
-    "craft": 3.3
+    "craft": 3.2
    },
    "score": 12.2,
    "ranked": false,
